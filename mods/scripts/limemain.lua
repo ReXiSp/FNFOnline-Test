@@ -39,9 +39,9 @@ end
 
 function onCreatePost()
     --note splash
-    precacheImage("limegreen/noteSplashes")
-    setPropertyFromClass("states.PlayState", "SONG.splashSkin", "limegreen/noteSplashes")
-    setPropertyFromClass("PlayState", "SONG.splashSkin", "limegreen/noteSplashes") --for legacy
+    -- precacheImage("limegreen/noteSplashes")
+    -- setPropertyFromClass("states.PlayState", "SONG.splashSkin", "limegreen/noteSplashes")
+    -- setPropertyFromClass("PlayState", "SONG.splashSkin", "limegreen/noteSplashes") --for legacy
 
     if uiChange then
         --score txt
