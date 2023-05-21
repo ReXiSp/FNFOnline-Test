@@ -11,8 +11,11 @@ mods/stages/outside.lua
 mods/custom_notetypes/Bullet_Note.lua
 mods/custom_events/CameraFlash.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/sounds/hankshoot.ogg
+mods/fonts/arial.ttf
 mods/songs/cosmos-sign/Voices.ogg
 mods/songs/cosmos-sign/voices.ogg
 mods/songs/cosmos-sign/Inst.ogg

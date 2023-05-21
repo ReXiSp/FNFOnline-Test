@@ -1,0 +1,16 @@
+mods/data/stargazer/effects.lua
+mods/data/stargazer/events.json
+mods/data/stargazer/stargazer-easy.json
+mods/data/stargazer/stargazer-hard.json
+mods/data/stargazer/stargazer.json
+mods/stages/limeo2.json
+mods/stages/limeo2.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
+mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
+mods/songs/stargazer/Voices.ogg
+mods/songs/stargazer/voices.ogg
+mods/songs/stargazer/Inst.ogg
+mods/songs/stargazer/inst.ogg

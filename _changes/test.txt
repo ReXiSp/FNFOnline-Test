@@ -9,8 +9,12 @@ mods/images/characters/giraffe.xml
 mods/images/characters/no-gf.png
 mods/images/characters/no-gf.xml
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/icons/win-giraffe.png
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/test/Voices.ogg
 mods/songs/test/voices.ogg

@@ -10,7 +10,10 @@ mods/stages/giragus.json
 mods/stages/giragus.lua
 mods/custom_events/sabotage.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/giragus/Voices.ogg
 mods/songs/giragus/voices.ogg
 mods/songs/giragus/Inst.ogg

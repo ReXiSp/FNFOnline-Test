@@ -19,10 +19,14 @@ mods/images/characters/BOYFRIENDDD.png
 mods/images/characters/BOYFRIENDDD.xml
 mods/custom_events/sabotage.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/BG/giragus/amo.png
 mods/images/BG/giragus/yooo.png
 mods/images/BG/giragus/sabotage.png
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/giragus/Voices.ogg
 mods/songs/giragus/voices.ogg

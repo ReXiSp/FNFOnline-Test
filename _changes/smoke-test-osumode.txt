@@ -8,7 +8,10 @@ mods/stages/cafe.json
 mods/stages/cafe.lua
 mods/custom_events/Toggle camZooming.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/smoke-test/Voices.ogg
 mods/songs/smoke-test/voices.ogg
 mods/songs/smoke-test/Inst.ogg

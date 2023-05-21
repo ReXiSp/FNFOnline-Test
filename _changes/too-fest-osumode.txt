@@ -9,9 +9,12 @@ mods/stages/jiraStage.lua
 mods/custom_events/NoteSpin.lua
 mods/custom_events/LyricsJPText.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/sounds/hitmarkers.ogg
 mods/fonts/keifont.ttf
+mods/fonts/arial.ttf
 mods/songs/too-fest/Voices.ogg
 mods/songs/too-fest/voices.ogg
 mods/songs/too-fest/Inst.ogg

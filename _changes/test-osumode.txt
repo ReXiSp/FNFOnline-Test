@@ -3,7 +3,10 @@ mods/data/test/test-hard.json
 mods/data/test/test-insane.json
 mods/data/test/test.json
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/test/Voices.ogg
 mods/songs/test/voices.ogg
 mods/songs/test/Inst.ogg

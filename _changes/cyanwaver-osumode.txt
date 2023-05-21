@@ -10,7 +10,10 @@ mods/stages/cafe.lua
 mods/custom_events/CCountdown.lua
 mods/custom_events/CameraFlash.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/cyanwaver/Voices.ogg
 mods/songs/cyanwaver/voices.ogg
 mods/songs/cyanwaver/Inst.ogg

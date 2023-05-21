@@ -15,6 +15,8 @@ mods/images/characters/no-gf.png
 mods/images/characters/no-gf.xml
 mods/custom_events/CameraFlash.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/icons/win-giraffe.png
 mods/images/BG/stagefront.png
@@ -29,6 +31,8 @@ mods/images/BG/shin.png
 mods/images/BG/shin.xml
 mods/images/BG/cyan.png
 mods/images/BG/cyan.xml
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/tutorial-remix/Voices.ogg
 mods/songs/tutorial-remix/voices.ogg

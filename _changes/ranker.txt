@@ -33,6 +33,8 @@ mods/custom_events/Toggle camZooming.lua
 mods/custom_events/BlackOut.lua
 mods/custom_events/HUDbye.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/BG/stagefront.png
 mods/images/BG/sayuu.png
@@ -54,6 +56,8 @@ mods/images/BG/kankyaku.png
 mods/images/BG/kankyaku.xml
 mods/images/BG/lordxmajin.png
 mods/images/BG/lordxmajin.xml
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/ranker/Voices.ogg
 mods/songs/ranker/voices.ogg

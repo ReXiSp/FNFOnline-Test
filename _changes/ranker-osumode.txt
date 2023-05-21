@@ -14,7 +14,10 @@ mods/custom_events/Toggle camZooming.lua
 mods/custom_events/BlackOut.lua
 mods/custom_events/HUDbye.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/ranker/Voices.ogg
 mods/songs/ranker/voices.ogg
 mods/songs/ranker/Inst.ogg

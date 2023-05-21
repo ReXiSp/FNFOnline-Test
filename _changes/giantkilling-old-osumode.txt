@@ -3,7 +3,10 @@ mods/data/giantkilling-old/singingCamMove.lua
 mods/stages/stream.json
 mods/stages/stream.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
 mods/songs/giantkilling-old/Voices.ogg
 mods/songs/giantkilling-old/voices.ogg
 mods/songs/giantkilling-old/Inst.ogg

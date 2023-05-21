@@ -1,0 +1,16 @@
+mods/data/inflorescence/effects.lua
+mods/data/inflorescence/events.json
+mods/data/inflorescence/inflorescence-easy.json
+mods/data/inflorescence/inflorescence-hard.json
+mods/data/inflorescence/inflorescence.json
+mods/stages/limeo2.json
+mods/stages/limeo2.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
+mods/scripts/songInfo.lua
+mods/fonts/arial.ttf
+mods/songs/inflorescence/Voices.ogg
+mods/songs/inflorescence/voices.ogg
+mods/songs/inflorescence/Inst.ogg
+mods/songs/inflorescence/inst.ogg

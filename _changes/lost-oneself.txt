@@ -18,6 +18,8 @@ mods/images/characters/devilgiraffe.xml
 mods/custom_events/badapplelol.lua
 mods/custom_events/Toggle camZooming.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/icons/win-devilg.png
 mods/images/BG/lost/broken.png
@@ -26,6 +28,8 @@ mods/images/BG/lost/brokenmonitor.xml
 mods/images/BG/lost/brokenradio.png
 mods/images/BG/lost/brokenradio.xml
 mods/images/BG/lost/vign.png
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/lost-oneself/Voices.ogg
 mods/songs/lost-oneself/voices.ogg

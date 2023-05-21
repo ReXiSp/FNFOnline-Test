@@ -14,6 +14,8 @@ mods/images/characters/citygf.png
 mods/images/characters/citygf.xml
 mods/custom_events/Toggle camZooming.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/icons/win-moyashiro.png
 mods/images/BG/week2/cafe.png
@@ -23,6 +25,8 @@ mods/images/BG/week2/shartize.png
 mods/images/BG/week2/shartize.xml
 mods/images/BG/week2/shartizer.png
 mods/images/BG/week2/shartizer.xml
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/smoke-test/Voices.ogg
 mods/songs/smoke-test/voices.ogg

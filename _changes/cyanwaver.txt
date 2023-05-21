@@ -16,6 +16,8 @@ mods/images/characters/citygf.xml
 mods/custom_events/CCountdown.lua
 mods/custom_events/CameraFlash.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/BG/week2/cafe.png
 mods/images/BG/week2/lilybg.png
@@ -28,6 +30,8 @@ mods/images/BG/week2/cyan3.png
 mods/images/BG/week2/cyan2.png
 mods/images/BG/week2/cyan1.png
 mods/images/BG/week2/cyango.png
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/cyanwaver/Voices.ogg
 mods/songs/cyanwaver/voices.ogg

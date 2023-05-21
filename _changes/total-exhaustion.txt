@@ -24,6 +24,8 @@ mods/custom_events/CameraFlash.lua
 mods/custom_events/BeatCameraZoom.lua
 mods/custom_events/BlackOut.lua
 mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/images/icons/win-giraffe.png
 mods/images/BG/stagefront.png
@@ -44,6 +46,8 @@ mods/images/BG/kankyaku.png
 mods/images/BG/kankyaku.xml
 mods/images/BG/lordxmajin.png
 mods/images/BG/lordxmajin.xml
+mods/images/limegreen/noteSplashes.png
+mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/total-exhaustion/Voices.ogg
 mods/songs/total-exhaustion/voices.ogg
