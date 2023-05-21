@@ -18,10 +18,13 @@ mods/stages/giragus.lua
 mods/images/characters/BOYFRIENDDD.png
 mods/images/characters/BOYFRIENDDD.xml
 mods/custom_events/sabotage.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/BG/giragus/amo.png
 mods/images/BG/giragus/yooo.png
 mods/images/BG/giragus/sabotage.png

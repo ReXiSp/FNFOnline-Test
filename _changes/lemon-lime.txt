@@ -9,10 +9,13 @@ mods/stages/limeo2.lua
 mods/images/characters/LIME_GRTEEN.png
 mods/images/characters/LIME_GRTEEN.xml
 mods/custom_events/Camera Flash.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/limegreen/O2Background.png
 mods/images/limegreen/O2Background.xml
 mods/images/limegreen/fansss.png

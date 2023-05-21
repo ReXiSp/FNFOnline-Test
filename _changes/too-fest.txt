@@ -14,10 +14,13 @@ mods/images/characters/girufy.png
 mods/images/characters/girufy.xml
 mods/custom_events/NoteSpin.lua
 mods/custom_events/LyricsJPText.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/BG/2work/no_yasumi.png
 mods/images/BG/2work/bg.png
 mods/images/BG/2work/explo.png

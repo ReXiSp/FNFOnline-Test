@@ -14,10 +14,13 @@ mods/images/characters/awo.xml
 mods/custom_notetypes/GhostAnim.lua
 mods/custom_events/ZoomPlus.lua
 mods/custom_events/IntroSkip.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/characters/asrghndead.png
 mods/images/characters/asrghndead.xml
 mods/images/back.png

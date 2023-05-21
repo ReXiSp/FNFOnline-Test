@@ -17,10 +17,13 @@ mods/images/characters/devilgiraffe.png
 mods/images/characters/devilgiraffe.xml
 mods/custom_events/badapplelol.lua
 mods/custom_events/Toggle camZooming.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/icons/win-devilg.png
 mods/images/BG/lost/broken.png
 mods/images/BG/lost/brokenmonitor.png

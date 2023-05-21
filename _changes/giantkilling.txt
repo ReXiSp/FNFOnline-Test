@@ -9,10 +9,13 @@ mods/stages/stream.lua
 mods/images/characters/shinohaji.png
 mods/images/characters/shinohaji.xml
 mods/custom_events/LyricsGK.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/BG/gk/stream.png
 mods/images/BG/gk/bandage.png
 mods/fonts/keifont.ttf

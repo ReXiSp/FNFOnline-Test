@@ -13,10 +13,13 @@ mods/images/characters/moyashiro.xml
 mods/images/characters/citygf.png
 mods/images/characters/citygf.xml
 mods/custom_events/Toggle camZooming.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/icons/win-moyashiro.png
 mods/images/BG/week2/cafe.png
 mods/images/BG/week2/lilybg.png

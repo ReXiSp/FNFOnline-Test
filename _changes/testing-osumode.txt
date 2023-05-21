@@ -1,7 +1,10 @@
 mods/data/testing/script.lua
 mods/data/testing/testing.json
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf

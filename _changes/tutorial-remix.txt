@@ -14,10 +14,13 @@ mods/stages/concert.lua
 mods/images/characters/no-gf.png
 mods/images/characters/no-gf.xml
 mods/custom_events/CameraFlash.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/icons/win-giraffe.png
 mods/images/BG/stagefront.png
 mods/images/BG/sayuu.png

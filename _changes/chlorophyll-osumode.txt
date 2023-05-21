@@ -6,10 +6,13 @@ mods/data/chlorophyll/events.json
 mods/stages/limeo2.json
 mods/stages/limeo2.lua
 mods/custom_events/Camera Flash.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/chlorophyll/Voices.ogg
 mods/songs/chlorophyll/voices.ogg

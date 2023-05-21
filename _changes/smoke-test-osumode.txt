@@ -7,10 +7,13 @@ mods/data/smoke-test/smoke-test.json
 mods/stages/cafe.json
 mods/stages/cafe.lua
 mods/custom_events/Toggle camZooming.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/smoke-test/Voices.ogg
 mods/songs/smoke-test/voices.ogg

@@ -2,10 +2,13 @@ mods/data/test/singingCamMove.lua
 mods/data/test/test-hard.json
 mods/data/test/test-insane.json
 mods/data/test/test.json
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/test/Voices.ogg
 mods/songs/test/voices.ogg

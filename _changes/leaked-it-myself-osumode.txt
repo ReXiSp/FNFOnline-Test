@@ -8,10 +8,13 @@ mods/stages/pc.lua
 mods/custom_notetypes/GhostAnim.lua
 mods/custom_events/ZoomPlus.lua
 mods/custom_events/IntroSkip.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/leaked-it-myself/Voices.ogg
 mods/songs/leaked-it-myself/voices.ogg

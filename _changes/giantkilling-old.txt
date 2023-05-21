@@ -5,10 +5,13 @@ mods/stages/stream.json
 mods/stages/stream.lua
 mods/images/characters/shinohaji.png
 mods/images/characters/shinohaji.xml
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/BG/gk/stream.png
 mods/images/BG/gk/bandage.png
 mods/images/limegreen/noteSplashes.png

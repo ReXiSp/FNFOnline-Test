@@ -11,10 +11,13 @@ mods/stages/concert3.json
 mods/stages/concert3.lua
 mods/custom_events/badapplelol.lua
 mods/custom_events/Toggle camZooming.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/lost-oneself/Voices.ogg
 mods/songs/lost-oneself/voices.ogg

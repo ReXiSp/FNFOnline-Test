@@ -11,10 +11,13 @@ mods/custom_notetypes/Light_Note.lua
 mods/custom_events/CameraFlash.lua
 mods/custom_events/BeatCameraZoom.lua
 mods/custom_events/BlackOut.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/total-exhaustion/Voices.ogg
 mods/songs/total-exhaustion/voices.ogg

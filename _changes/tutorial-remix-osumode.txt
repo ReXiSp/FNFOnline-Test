@@ -8,10 +8,13 @@ mods/data/tutorial-remix/tutorial-remix.json
 mods/stages/concert.json
 mods/stages/concert.lua
 mods/custom_events/CameraFlash.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/fonts/arial.ttf
 mods/songs/tutorial-remix/Voices.ogg
 mods/songs/tutorial-remix/voices.ogg

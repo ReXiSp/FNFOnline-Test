@@ -19,10 +19,13 @@ mods/images/characters/bfspeaker.png
 mods/images/characters/bfspeaker.xml
 mods/custom_notetypes/Bullet_Note.lua
 mods/custom_events/CameraFlash.lua
+mods/scripts/debuglua.lua
+mods/scripts/DoubleGhostNote.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
 mods/images/icons/win-sin.png
 mods/images/BG/week2/sin/bg.png
 mods/images/BG/week2/sin/gfspeaker.png
