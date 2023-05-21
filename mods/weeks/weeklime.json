@@ -1,0 +1,59 @@
+{
+	"storyName": "LIME GREEN JADSPOSTOR",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lemon-lime",
+			"lime",
+			[
+				102,
+				255,
+				102
+			]
+		],
+		[
+			"chlorophyll",
+			"lime",
+			[
+				102,
+				255,
+				102
+			]
+		],
+		[
+			"inflorescence",
+			"lime",
+			[
+				102,
+				255,
+				102
+			]
+		],
+		[
+			"stargazer",
+			"lime",
+			[
+				102,
+				255,
+				102
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Lime Green"
+}

@@ -1,0 +1,4 @@
+Camera Flash.
+
+Value 1: target Camera (game, hud, other)
+Value 2: Color, Dulation, Forced
