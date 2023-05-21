@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Leaked it myself",
+			"ahogo",
+			[
+				255,
+				215,
+				80
+			]
+		]
+	],
+	"weekName": "Tutorial"
+}

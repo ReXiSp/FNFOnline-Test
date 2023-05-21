@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="asrghndead.png">
+<SubTexture name="asrghndead death10000" x="4100" y="0" width="783" height="1183" frameX="-290" frameY="-200" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10001" x="4883" y="0" width="788" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10002" x="4883" y="1170" width="788" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10003" x="4883" y="2340" width="788" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10004" x="0" y="4064" width="801" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10005" x="801" y="4064" width="830" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10006" x="1631" y="4064" width="846" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10007" x="2705" y="2723" width="937" height="1215" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10008" x="1760" y="2723" width="945" height="1229" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10009" x="2477" y="4064" width="789" height="1170" frameX="-282" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10010" x="4100" y="1183" width="782" height="1170" frameX="-281" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10011" x="4100" y="2353" width="778" height="1170" frameX="-283" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10012" x="0" y="1382" width="880" height="1341" frameX="-233" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10013" x="880" y="1382" width="880" height="1341" frameX="-233" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10014" x="1760" y="1382" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10015" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10016" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10017" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10018" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10019" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10020" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10021" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10022" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10023" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10024" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10025" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10026" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10027" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death10028" x="3219" y="0" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+
+<SubTexture name="asrghndead death20000" x="3219" y="1341" width="881" height="1341" frameX="-232" frameY="-41" frameWidth="1228" frameHeight="1458" />
+
+<SubTexture name="asrghndead death30000" x="0" y="0" width="1083" height="1382" frameX="-135" frameY="0" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30001" x="1083" y="0" width="1083" height="1382" frameX="-135" frameY="0" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30002" x="2166" y="0" width="1053" height="1382" frameX="-150" frameY="0" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30003" x="0" y="2723" width="880" height="1341" frameX="-233" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30004" x="880" y="2723" width="880" height="1341" frameX="-233" frameY="-41" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30005" x="3266" y="4064" width="778" height="1170" frameX="-283" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30006" x="4044" y="4064" width="778" height="1170" frameX="-283" frameY="-212" frameWidth="1228" frameHeight="1458" />
+<SubTexture name="asrghndead death30007" x="4822" y="4064" width="778" height="1170" frameX="-283" frameY="-212" frameWidth="1228" frameHeight="1458" />
+</TextureAtlas>

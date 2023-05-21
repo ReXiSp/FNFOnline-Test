@@ -11,6 +11,7 @@ local SongInfo = {
     {song='giragus',songtitle='Giragus',composer='Composer: CYANCAT'},
     {song='Too-Fest',songtitle='TOO FEST',composer='Composer:Punkett\nCover: Asarigohan'},
     {song='giantkilling-old',songtitle='GiantKilling[OLD]',composer='owo'},
+    {song='leaked it myself',songtitle='Leaked it myself',composer='Remix & Leak: Asarigohan'},
 }
 
 function onCreate()

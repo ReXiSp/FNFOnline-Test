@@ -1,9 +1,9 @@
 function onCreate()
 
-  makeLuaText('judge', '', screenWidth, -20, 0)
+  makeLuaText('judge', '', screenWidth, 10, 0)
   setTextSize('judge', 20)
   screenCenter('judge', 'Y')
-  setTextAlignment('judge', 'right')
+  setTextAlignment('judge', 'left')
   setObjectCamera('judge', 'other')
 
   addLuaText('judge')

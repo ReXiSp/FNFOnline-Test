@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				-238
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "asrghndead death2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-238
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "asrghndead death1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-238
+			],
+			"anim": "deathConfirm",
+			"fps": 10,
+			"name": "asrghndead death3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/asrghndead",
+	"position": [
+		-400,
+		-360
+	],
+	"healthicon": "ahogo",
+	"flip_x": true,
+	"healthbar_colors": [
+		246,
+		215,
+		95
+	],
+	"camera_position": [
+		-120,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

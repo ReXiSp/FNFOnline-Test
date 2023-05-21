@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="awo.png">
+<SubTexture name="down0000" x="0" y="0" width="689" height="802" frameX="-90" frameY="-121" frameWidth="838" frameHeight="966" />
+<SubTexture name="down0001" x="689" y="0" width="694" height="824" frameX="-86" frameY="-99" frameWidth="838" frameHeight="966" />
+<SubTexture name="up0000" x="1383" y="0" width="711" height="903" frameX="-57" frameY="-21" frameWidth="838" frameHeight="966" />
+<SubTexture name="up0001" x="0" y="903" width="707" height="893" frameX="-58" frameY="-31" frameWidth="838" frameHeight="966" />
+<SubTexture name="left0000" x="707" y="903" width="681" height="843" frameX="-11" frameY="-80" frameWidth="838" frameHeight="966" />
+<SubTexture name="left0001" x="1388" y="903" width="680" height="842" frameX="-26" frameY="-81" frameWidth="838" frameHeight="966" />
+<SubTexture name="idle0000" x="0" y="1796" width="694" height="844" frameX="-77" frameY="-79" frameWidth="838" frameHeight="966" />
+<SubTexture name="idle0001" x="694" y="1796" width="692" height="847" frameX="-75" frameY="-76" frameWidth="838" frameHeight="966" />
+<SubTexture name="idle0002" x="1386" y="1796" width="700" height="867" frameX="-68" frameY="-57" frameWidth="838" frameHeight="966" />
+<SubTexture name="idle0003" x="0" y="2663" width="703" height="872" frameX="-67" frameY="-52" frameWidth="838" frameHeight="966" />
+<SubTexture name="idle0004" x="703" y="2663" width="704" height="873" frameX="-68" frameY="-51" frameWidth="838" frameHeight="966" />
+<SubTexture name="right0000" x="1407" y="2663" width="702" height="828" frameX="-127" frameY="-95" frameWidth="838" frameHeight="966" />
+<SubTexture name="right0001" x="0" y="3536" width="694" height="832" frameX="-121" frameY="-91" frameWidth="838" frameHeight="966" />
+</TextureAtlas>
