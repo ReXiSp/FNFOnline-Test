@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="giraffe-dialogue.png">
+<SubTexture name="normal0000" x="0" y="0" width="378" height="511" frameX="-114" frameY="-166" frameWidth="600" frameHeight="700" />
+<SubTexture name="talk0000" x="378" y="0" width="378" height="511" frameX="-114" frameY="-166" frameWidth="600" frameHeight="700" />
+<SubTexture name="what0000" x="0" y="511" width="324" height="529" frameX="-165" frameY="-145" frameWidth="600" frameHeight="700" />
+<SubTexture name="wo0000" x="324" y="511" width="367" height="510" frameX="-124" frameY="-166" frameWidth="600" frameHeight="700" />
+<SubTexture name="yeah0000" x="0" y="1040" width="544" height="639" frameX="-26" frameY="-37" frameWidth="600" frameHeight="700" />
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "worker",
+	"weekBefore": "weekG1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Smoke test",
+			"moyashiro",
+			[
+				180,
+				180,
+				180
+			]
+		],
+		[
+			"Cyanwaver",
+			"cyan",
+			[
+				80,
+				215,
+				220
+			]
+		],
+		[
+			"Cosmos sign",
+			"sin",
+			[
+				80,
+				215,
+				220
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Giraffe week2"
+}

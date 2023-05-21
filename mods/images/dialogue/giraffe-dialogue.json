@@ -1,0 +1,76 @@
+{
+	"position": [
+		50,
+		-130
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "giraffe-dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				0
+			],
+			"anim": "yeah",
+			"idle_offsets": [
+				-60,
+				0
+			],
+			"loop_name": "yeah",
+			"idle_name": "yeah"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				-5
+			],
+			"anim": "what",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "what",
+			"idle_name": "what"
+		},
+		{
+			"loop_name": "wo",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "wo",
+			"anim": "wo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk",
+			"anim": "talk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

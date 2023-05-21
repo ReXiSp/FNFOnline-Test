@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ccugh.png">
+<SubTexture name="cc0000" x="0" y="0" width="227" height="455" frameX="-9" frameY="-20" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0001" x="0" y="0" width="227" height="455" frameX="-9" frameY="-20" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0002" x="227" y="0" width="225" height="459" frameX="-12" frameY="-16" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0003" x="227" y="0" width="225" height="459" frameX="-12" frameY="-16" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0004" x="0" y="459" width="222" height="465" frameX="-14" frameY="-10" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0005" x="0" y="459" width="222" height="465" frameX="-14" frameY="-10" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0006" x="222" y="459" width="219" height="467" frameX="-15" frameY="-9" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0007" x="222" y="459" width="219" height="467" frameX="-15" frameY="-9" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0008" x="222" y="459" width="219" height="467" frameX="-15" frameY="-9" frameWidth="240" frameHeight="480" />
+<SubTexture name="cc0009" x="222" y="459" width="219" height="467" frameX="-15" frameY="-9" frameWidth="240" frameHeight="480" />
+</TextureAtlas>

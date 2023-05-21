@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "radio",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ranker",
+			"radio",
+			[
+				120,
+				195,
+				100
+			]
+		],
+		[
+			"Total exhaustion",
+			"giraffe",
+			[
+				40,
+				175,
+				80
+			]
+		],
+		[
+			"Lost oneself",
+			"devilg",
+			[
+				40,
+				175,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Giraffe week1"
+}

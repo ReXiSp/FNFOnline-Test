@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-dialogue.png">
+<SubTexture name="smug0000" x="0" y="0" width="411" height="411" frameX="-94" frameY="-163" frameWidth="600" frameHeight="700" />
+<SubTexture name="tired20000" x="411" y="0" width="377" height="442" frameX="-135" frameY="-136" frameWidth="600" frameHeight="700" />
+<SubTexture name="hey0000" x="0" y="442" width="416" height="414" frameX="-92" frameY="-160" frameWidth="600" frameHeight="700" />
+<SubTexture name="noo0000" x="416" y="442" width="411" height="411" frameX="-94" frameY="-163" frameWidth="600" frameHeight="700" />
+<SubTexture name="normal0000" x="0" y="856" width="411" height="416" frameX="-99" frameY="-166" frameWidth="609" frameHeight="710" />
+<SubTexture name="tired10000" x="411" y="856" width="411" height="411" frameX="-94" frameY="-163" frameWidth="600" frameHeight="700" />
+<SubTexture name="what0000" x="0" y="1272" width="397" height="417" frameX="-105" frameY="-158" frameWidth="600" frameHeight="700" />
+<SubTexture name="yeah0000" x="397" y="1272" width="387" height="401" frameX="-98" frameY="-163" frameWidth="600" frameHeight="700" />
+</TextureAtlas>

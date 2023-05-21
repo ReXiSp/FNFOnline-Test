@@ -1,0 +1,17 @@
+mods/data/cyanwaver/cameraZooming.lua
+mods/data/cyanwaver/cyanwaver-hard.json
+mods/data/cyanwaver/cyanwaver-insane.json
+mods/data/cyanwaver/cyanwaver.json
+mods/data/cyanwaver/events.json
+mods/data/cyanwaver/log.lua
+mods/data/cyanwaver/singingCamMove.lua
+mods/stages/cafe.json
+mods/stages/cafe.lua
+mods/custom_events/CCountdown.lua
+mods/custom_events/CameraFlash.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/songs/cyanwaver/Voices.ogg
+mods/songs/cyanwaver/voices.ogg
+mods/songs/cyanwaver/Inst.ogg
+mods/songs/cyanwaver/inst.ogg

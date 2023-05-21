@@ -1,0 +1,32 @@
+{
+	"storyName": "oh god no",
+	"difficulties": "Deadly",
+	"hideFreeplay": false,
+	"weekBackground": "well",
+	"hiddenUntilUnlocked": true,
+	"weekBefore": "weekGS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Giantkilling",
+			"shinohaji",
+			[
+				160,
+				120,
+				180
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "eroaruyo"
+}

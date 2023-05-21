@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moyadance.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="moyadance0000" x="2" y="2" width="329" height="793" frameX="-8" frameY="-30" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0001" x="333" y="2" width="335" height="786" frameX="-5" frameY="-37" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0002" x="670" y="2" width="327" height="789" frameX="-8" frameY="-34" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0003" x="999" y="2" width="312" height="799" frameX="-12" frameY="-24" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0004" x="1313" y="2" width="285" height="807" frameX="-33" frameY="-16" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0005" x="1600" y="2" width="279" height="816" frameX="-40" frameY="-7" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0006" x="1881" y="2" width="274" height="810" frameX="-40" frameY="-13" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0007" x="2157" y="2" width="287" height="813" frameX="-37" frameY="-10" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0008" x="2446" y="2" width="279" height="815" frameX="-42" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0009" x="2727" y="2" width="268" height="820" frameX="-52" frameY="-3" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0010" x="2997" y="2" width="269" height="823" frameX="-54" frameY="0" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0011" x="3268" y="2" width="273" height="815" frameX="-50" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0012" x="3543" y="2" width="268" height="813" frameX="-51" frameY="-10" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0013" x="3813" y="2" width="259" height="812" frameX="-57" frameY="-11" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0014" x="2" y="827" width="249" height="809" frameX="-71" frameY="-14" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0015" x="253" y="827" width="248" height="811" frameX="-72" frameY="-12" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0016" x="503" y="827" width="266" height="801" frameX="-58" frameY="-22" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0017" x="771" y="827" width="270" height="803" frameX="-56" frameY="-20" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0018" x="1043" y="827" width="266" height="804" frameX="-62" frameY="-19" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0019" x="1311" y="827" width="249" height="806" frameX="-76" frameY="-17" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0020" x="1562" y="827" width="249" height="807" frameX="-76" frameY="-16" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0021" x="1813" y="827" width="242" height="800" frameX="-87" frameY="-23" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0022" x="2057" y="827" width="266" height="815" frameX="-82" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0023" x="2325" y="827" width="254" height="815" frameX="-90" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0024" x="2581" y="827" width="267" height="816" frameX="-85" frameY="-7" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0025" x="2850" y="827" width="259" height="815" frameX="-89" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0026" x="3111" y="827" width="275" height="810" frameX="-84" frameY="-13" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0027" x="3388" y="827" width="293" height="807" frameX="-81" frameY="-16" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0028" x="3683" y="827" width="294" height="804" frameX="-80" frameY="-19" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0029" x="2" y="1645" width="282" height="802" frameX="-82" frameY="-21" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0030" x="286" y="1645" width="282" height="800" frameX="-80" frameY="-23" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0031" x="570" y="1645" width="274" height="802" frameX="-81" frameY="-21" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0032" x="846" y="1645" width="267" height="806" frameX="-84" frameY="-17" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0033" x="1115" y="1645" width="263" height="815" frameX="-89" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0034" x="1380" y="1645" width="282" height="818" frameX="-85" frameY="-5" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0035" x="2325" y="827" width="254" height="815" frameX="-90" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0036" x="2057" y="827" width="266" height="815" frameX="-82" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0037" x="1813" y="827" width="242" height="800" frameX="-87" frameY="-23" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0038" x="1664" y="1645" width="249" height="806" frameX="-76" frameY="-17" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0039" x="1915" y="1645" width="249" height="807" frameX="-76" frameY="-16" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0040" x="1043" y="827" width="266" height="804" frameX="-62" frameY="-19" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0041" x="771" y="827" width="270" height="803" frameX="-56" frameY="-20" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0042" x="503" y="827" width="266" height="801" frameX="-58" frameY="-22" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0043" x="2166" y="1645" width="249" height="809" frameX="-71" frameY="-14" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0044" x="2417" y="1645" width="248" height="811" frameX="-72" frameY="-12" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0045" x="3813" y="2" width="259" height="812" frameX="-57" frameY="-11" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0046" x="3543" y="2" width="268" height="813" frameX="-51" frameY="-10" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0047" x="2667" y="1645" width="269" height="823" frameX="-54" frameY="0" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0048" x="2938" y="1645" width="273" height="815" frameX="-50" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0049" x="2727" y="2" width="268" height="820" frameX="-52" frameY="-3" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0050" x="2446" y="2" width="279" height="815" frameX="-42" frameY="-8" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0051" x="2157" y="2" width="287" height="813" frameX="-37" frameY="-10" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0052" x="1881" y="2" width="274" height="810" frameX="-40" frameY="-13" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0053" x="1600" y="2" width="279" height="816" frameX="-40" frameY="-7" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0054" x="1313" y="2" width="285" height="807" frameX="-33" frameY="-16" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0055" x="999" y="2" width="312" height="799" frameX="-12" frameY="-24" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0056" x="670" y="2" width="327" height="789" frameX="-8" frameY="-34" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0057" x="3213" y="1645" width="340" height="789" frameX="0" frameY="-34" frameWidth="374" frameHeight="823"/>
+	<SubTexture name="moyadance0058" x="3555" y="1645" width="337" height="791" frameX="0" frameY="-32" frameWidth="374" frameHeight="823"/>
+</TextureAtlas>

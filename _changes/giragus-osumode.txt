@@ -1,0 +1,17 @@
+mods/data/giragus/events.json
+mods/data/giragus/giragus-hard.json
+mods/data/giragus/giragus-insane.json
+mods/data/giragus/giragus.json
+mods/data/giragus/Kade_1.6.lua
+mods/data/giragus/Ratings.lua
+mods/data/giragus/singingCamMove.lua
+mods/data/giragus/Spacebar Hey.lua
+mods/stages/giragus.json
+mods/stages/giragus.lua
+mods/custom_events/sabotage.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/songs/giragus/Voices.ogg
+mods/songs/giragus/voices.ogg
+mods/songs/giragus/Inst.ogg
+mods/songs/giragus/inst.ogg

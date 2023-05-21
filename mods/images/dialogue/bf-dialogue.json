@@ -1,0 +1,115 @@
+{
+	"position": [
+		0,
+		-40
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "bf-dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "yeah",
+			"loop_name": "yeah"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				-5
+			],
+			"anim": "noo",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "noo",
+			"idle_name": "noo"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				-5
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "smug",
+			"idle_name": "smug"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				-5
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "tired1",
+			"idle_name": "tired1"
+		},
+		{
+			"loop_offsets": [
+				0,
+				2
+			],
+			"anim": "overwork",
+			"idle_offsets": [
+				0,
+				2
+			],
+			"loop_name": "tired2",
+			"idle_name": "tired2"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				-5
+			],
+			"anim": "what",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "what",
+			"idle_name": "what"
+		},
+		{
+			"loop_name": "hey",
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"idle_name": "hey",
+			"anim": "hey",
+			"loop_offsets": [
+				-3,
+				-5
+			]
+		}
+	]
+}

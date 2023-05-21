@@ -1,0 +1,15 @@
+mods/data/smoke-test/events.json
+mods/data/smoke-test/log.lua
+mods/data/smoke-test/singingCamMove.lua
+mods/data/smoke-test/smoke-test-hard.json
+mods/data/smoke-test/smoke-test-insane.json
+mods/data/smoke-test/smoke-test.json
+mods/stages/cafe.json
+mods/stages/cafe.lua
+mods/custom_events/Toggle camZooming.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/songs/smoke-test/Voices.ogg
+mods/songs/smoke-test/voices.ogg
+mods/songs/smoke-test/Inst.ogg
+mods/songs/smoke-test/inst.ogg

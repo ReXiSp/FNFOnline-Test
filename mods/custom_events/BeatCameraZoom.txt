@@ -1,0 +1,9 @@
+CameraZoom onBeat
+
+Value 1: 2 = Every 2 beats.   4 = Every measure.   
+         Else = Every beat.   0 = OFF.
+Value 2: Amount to be added to Zoom magnification
+
+
+Used DeepL Translator
+@Asarigohan1360

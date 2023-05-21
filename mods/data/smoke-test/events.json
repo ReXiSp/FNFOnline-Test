@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				14076.9230769231,
+				[
+					[
+						"Toggle camZooming",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14307.6923076923,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.15",
+						"0.05"
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"shartizeWalkin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72923.0769230769,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.1"
+					],
+					[
+						"Camera Follow Pos",
+						"100",
+						"250"
+					],
+					[
+						"Set Property",
+						"cameraSpeed",
+						"2"
+					]
+				]
+			],
+			[
+				73153.8461538461,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				73384.6153846154,
+				[
+					[
+						"Play Animation",
+						"breath",
+						"dad"
+					]
+				]
+			],
+			[
+				73615.3846153846,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"1"
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

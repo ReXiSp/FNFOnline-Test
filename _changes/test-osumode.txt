@@ -1,0 +1,10 @@
+mods/data/test/singingCamMove.lua
+mods/data/test/test-hard.json
+mods/data/test/test-insane.json
+mods/data/test/test.json
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/songs/test/Voices.ogg
+mods/songs/test/voices.ogg
+mods/songs/test/Inst.ogg
+mods/songs/test/inst.ogg

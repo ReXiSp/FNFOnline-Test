@@ -1,0 +1,18 @@
+mods/data/too-fest/death.lua
+mods/data/too-fest/events.json
+mods/data/too-fest/funnianimationnnsfukcyou.lua
+mods/data/too-fest/Spacebar Hey.lua
+mods/data/too-fest/ssdnjsandwjdaksadwaas.lua
+mods/data/too-fest/too-fest-norest.json
+mods/stages/jiraStage.json
+mods/stages/jiraStage.lua
+mods/custom_events/NoteSpin.lua
+mods/custom_events/LyricsJPText.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/sounds/hitmarkers.ogg
+mods/fonts/keifont.ttf
+mods/songs/too-fest/Voices.ogg
+mods/songs/too-fest/voices.ogg
+mods/songs/too-fest/Inst.ogg
+mods/songs/too-fest/inst.ogg

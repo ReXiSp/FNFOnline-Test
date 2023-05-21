@@ -1,0 +1,32 @@
+{
+	"storyName": "What",
+	"difficulties": "Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"hiddenUntilUnlocked": true,
+	"weekBackground": "shinogami",
+	"weekBefore": "weekGsus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Giragus",
+			"giraffe",
+			[
+				80,
+				195,
+				100
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Giragus"
+}

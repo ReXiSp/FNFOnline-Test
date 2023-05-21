@@ -1,0 +1,4 @@
+mods/data/testing/script.lua
+mods/data/testing/testing.json
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua

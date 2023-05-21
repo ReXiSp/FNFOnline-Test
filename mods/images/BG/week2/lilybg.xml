@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lilybg.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lilymana0000" x="2" y="2" width="1651" height="489" frameX="0" frameY="-3" frameWidth="1651" frameHeight="492"/>
+	<SubTexture name="Lilymana0001" x="1655" y="2" width="1651" height="489" frameX="0" frameY="-3" frameWidth="1651" frameHeight="492"/>
+	<SubTexture name="Lilymana0002" x="1655" y="2" width="1651" height="489" frameX="0" frameY="-3" frameWidth="1651" frameHeight="492"/>
+	<SubTexture name="Lilymana0003" x="2" y="493" width="1651" height="492"/>
+	<SubTexture name="Lilymana0004" x="2" y="493" width="1651" height="492"/>
+	<SubTexture name="Lilymana0005" x="1655" y="493" width="1651" height="492"/>
+	<SubTexture name="Lilymana0006" x="1655" y="493" width="1651" height="492"/>
+	<SubTexture name="Lilymana0007" x="2" y="987" width="1651" height="492"/>
+</TextureAtlas>

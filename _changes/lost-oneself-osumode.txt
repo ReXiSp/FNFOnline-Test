@@ -1,0 +1,19 @@
+mods/data/lost-oneself/blackout.lua
+mods/data/lost-oneself/events.json
+mods/data/lost-oneself/log.lua
+mods/data/lost-oneself/lost-oneself-hard.json
+mods/data/lost-oneself/lost-oneself-insane.json
+mods/data/lost-oneself/lost-oneself.json
+mods/data/lost-oneself/modchart.lua
+mods/data/lost-oneself/script.lua
+mods/data/lost-oneself/singingCamMove.lua
+mods/stages/concert3.json
+mods/stages/concert3.lua
+mods/custom_events/badapplelol.lua
+mods/custom_events/Toggle camZooming.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/songs/lost-oneself/Voices.ogg
+mods/songs/lost-oneself/voices.ogg
+mods/songs/lost-oneself/Inst.ogg
+mods/songs/lost-oneself/inst.ogg

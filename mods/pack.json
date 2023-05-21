@@ -1,0 +1,7 @@
+{
+	"name": "VS Giraffe",
+	"description": "V1!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [37, 164, 43]
+}

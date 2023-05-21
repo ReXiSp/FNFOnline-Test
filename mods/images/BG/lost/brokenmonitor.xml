@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brokenmonitor.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brokenmonitor0000" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0001" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0002" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0003" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0004" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0005" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0006" x="3038" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0007" x="3038" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0008" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0009" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0010" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0011" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0012" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0013" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0014" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0015" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0016" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0017" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0018" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0019" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0020" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0021" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0022" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0023" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0024" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0025" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0026" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0027" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0028" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0029" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0030" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0031" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0032" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0033" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0034" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0035" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0036" x="3038" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0037" x="3038" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0038" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0039" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0040" x="2" y="4964" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0041" x="2" y="4964" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0042" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0043" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0044" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0045" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0046" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0047" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0048" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0049" x="2" y="1656" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0050" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0051" x="2" y="3310" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0052" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0053" x="2" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0054" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0055" x="3038" y="2" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0056" x="3038" y="4964" width="3034" height="1652"/>
+	<SubTexture name="brokenmonitor0057" x="3038" y="4964" width="3034" height="1652"/>
+</TextureAtlas>

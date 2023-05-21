@@ -1,0 +1,3 @@
+value1
+1 = camera moves on
+0 = camera moves off

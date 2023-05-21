@@ -1,0 +1,16 @@
+mods/data/giantkilling-old/giantkilling-old-deadly.json
+mods/data/giantkilling-old/singingCamMove.lua
+mods/characters/shinohaji.json
+mods/stages/stream.json
+mods/stages/stream.lua
+mods/images/characters/shinohaji.png
+mods/images/characters/shinohaji.xml
+mods/scripts/JudgementCounter.lua
+mods/scripts/songInfo.lua
+mods/images/BG/gk/stream.png
+mods/images/BG/gk/bandage.png
+mods/images/viewsong.png
+mods/songs/giantkilling-old/Voices.ogg
+mods/songs/giantkilling-old/voices.ogg
+mods/songs/giantkilling-old/Inst.ogg
+mods/songs/giantkilling-old/inst.ogg

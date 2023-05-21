@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="citygf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sportsgf0000" x="2" y="2" width="332" height="527" frameX="0" frameY="-8" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0001" x="2" y="2" width="332" height="527" frameX="0" frameY="-8" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0002" x="336" y="2" width="325" height="526" frameX="-8" frameY="-9" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0003" x="336" y="2" width="325" height="526" frameX="-8" frameY="-9" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0004" x="663" y="2" width="313" height="532" frameX="-29" frameY="-3" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0005" x="663" y="2" width="313" height="532" frameX="-29" frameY="-3" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0006" x="978" y="2" width="311" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0007" x="978" y="2" width="311" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0008" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0009" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0010" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0011" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0012" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0013" x="1291" y="2" width="309" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0014" x="1602" y="2" width="324" height="529" frameX="-29" frameY="-6" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0015" x="1602" y="2" width="324" height="529" frameX="-29" frameY="-6" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0016" x="2" y="539" width="318" height="529" frameX="-32" frameY="-6" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0017" x="2" y="539" width="318" height="529" frameX="-32" frameY="-6" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0018" x="322" y="539" width="307" height="534" frameX="-40" frameY="-1" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0019" x="322" y="539" width="307" height="534" frameX="-40" frameY="-1" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0020" x="631" y="539" width="310" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0021" x="631" y="539" width="310" height="535" frameX="-37" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0022" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0023" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0024" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0025" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0026" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+	<SubTexture name="sportsgf0027" x="943" y="539" width="310" height="535" frameX="-38" frameY="0" frameWidth="353" frameHeight="535"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"too fest",
+			"girufy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "well",
+	"difficulties": "Norest",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "xbkhfskfsfshjsdahldljwlufjdmvcvngjjc",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "2work",
+	"startUnlocked": false
+}

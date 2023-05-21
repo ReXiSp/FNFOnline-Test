@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfspeaker.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfspeaker0000" x="2" y="2" width="514" height="473" frameX="0" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0001" x="2" y="2" width="514" height="473" frameX="0" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0002" x="518" y="2" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0003" x="1031" y="2" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0004" x="1544" y="2" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0005" x="2057" y="2" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0006" x="2570" y="2" width="511" height="475" frameX="-1" frameY="-2" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0007" x="3083" y="2" width="511" height="476" frameX="-1" frameY="-1" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0008" x="3083" y="2" width="511" height="476" frameX="-1" frameY="-1" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0009" x="3083" y="2" width="511" height="476" frameX="-1" frameY="-1" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0010" x="2" y="480" width="511" height="476" frameX="-1" frameY="-1" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0011" x="2" y="480" width="511" height="476" frameX="-1" frameY="-1" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0012" x="515" y="480" width="511" height="477" frameX="-1" frameY="0" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0013" x="515" y="480" width="511" height="477" frameX="-1" frameY="0" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0014" x="1028" y="480" width="514" height="477"/>
+	<SubTexture name="gfspeaker0015" x="1544" y="480" width="514" height="474" frameX="0" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0016" x="2060" y="480" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0017" x="2573" y="480" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0018" x="3086" y="480" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0019" x="2" y="959" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0020" x="515" y="959" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0021" x="1028" y="959" width="511" height="474" frameX="-1" frameY="-3" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0022" x="1541" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0023" x="1541" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0024" x="1541" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0025" x="2054" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0026" x="2054" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0027" x="2567" y="959" width="511" height="473" frameX="-1" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0028" x="3080" y="959" width="514" height="473" frameX="0" frameY="-4" frameWidth="514" frameHeight="477"/>
+	<SubTexture name="gfspeaker0029" x="3080" y="959" width="514" height="473" frameX="0" frameY="-4" frameWidth="514" frameHeight="477"/>
+</TextureAtlas>
