@@ -30,6 +30,13 @@ function onPause()
     setPropertyFromClass("PauseSubState", "songName", "sussus_muzak")
 end
 
+function onCreate()
+    if songName ~= "lemon-lime" and songName ~= "chlorophyll" and songName ~= "inflorescence" and songName ~= "stargazer" then
+        close()
+        return
+    end
+end
+
 function onCreatePost()
     --note splash
     precacheImage("limegreen/noteSplashes")
