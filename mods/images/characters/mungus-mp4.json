@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				12,
+				-5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-8,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				12,
+				-5
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [
+				1
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-altalt",
+			"indices": [
+				6
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mp4_mungus",
+	"position": [
+		-130,
+		70
+	],
+	"healthicon": "redmungus",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		25,
+		25
+	],
+	"camera_position": [
+		20,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
