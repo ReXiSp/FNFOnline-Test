@@ -2,7 +2,6 @@ mods/data/leaked-it-myself/events.json
 mods/data/leaked-it-myself/leaked-it-myself-hard.json
 mods/data/leaked-it-myself/leaked-it-myself.json
 mods/data/leaked-it-myself/singingCamMove.lua
-mods/data/leaked-it-myself/skipCD.lua
 mods/stages/pc.json
 mods/stages/pc.lua
 mods/custom_notetypes/GhostAnim.lua

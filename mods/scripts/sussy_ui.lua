@@ -1,5 +1,8 @@
 function onCreate()
-
+  if songName ~= "bitch" then
+    close()
+    return
+  end
 end
 
 function onCreatePost()

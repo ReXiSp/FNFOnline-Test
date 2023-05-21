@@ -24,6 +24,11 @@ function onCreate()
             songempty = true;
         end
     end
+
+    if songempty then
+        return
+    end
+
     if songempty == false then
         ShowSongTitle = songName;
         ShowSongcomposer = 'Work is only going to increase. \\\\Shartize';
