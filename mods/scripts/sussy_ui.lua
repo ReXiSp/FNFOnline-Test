@@ -3,6 +3,8 @@ function onCreate()
     close()
     return
   end
+
+  setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
 end
 
 function onCreatePost()
