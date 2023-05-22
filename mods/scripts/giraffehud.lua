@@ -15,6 +15,16 @@ local giraffeSongs = {
     "tutorial-remix"
 }
 
+function math.lerp(a, b, ratio)
+
+    return a + ratio * (b - a)
+    
+end
+
+function math.boundTo(value, min, max)
+    return math.max(min, math.min(max, value))
+end
+
 function math.floorDecimal(value, decimals)
     if decimals < 1 then
         return math.floor(value)
@@ -49,9 +59,25 @@ end
 
 function onUpdatePost(elapsed)
     if isGiraffeSong then
-        setProperty("iconP1.scale.y", 1)
-        setProperty("iconP2.scale.y", 1)
+        local mult = math.lerp(1, getProperty("iconP1.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+        scaleObject("iconP1", mult, 1)
+        -- updateHitbox("iconP1")
+    
+        local mult = math.lerp(1, getProperty("iconP2.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+        scaleObject("iconP2", mult, 1)
+        -- updateHitbox("iconP2")
+    
         setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
         setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+    else
+
+        local mult = math.lerp(1, getProperty("iconP1.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+        scaleObject("iconP1", mult, mult)
+        -- updateHitbox("iconP1")
+    
+        local mult = math.lerp(1, getProperty("iconP2.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+        scaleObject("iconP2", mult, mult)
+        -- updateHitbox("iconP2")
+
     end
 end
