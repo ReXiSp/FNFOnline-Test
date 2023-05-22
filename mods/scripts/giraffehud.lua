@@ -41,11 +41,15 @@ function onCreatePost()
     isGiraffeSong = table.contains(giraffeSongs, songName)
     if isGiraffeSong then
         setProperty("scoreTxt.alpha", 0.9)
+        setProperty("fscoreTxt.alpha", 0.9)
+        setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+        setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
     end
 end
 
 function onUpdatePost(elapsed)
     if isGiraffeSong then
         setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+        setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
     end
 end
