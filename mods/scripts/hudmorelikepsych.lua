@@ -49,13 +49,13 @@ function onCreatePost()
         setObjectCamera("iconP1", "hud")
         setProperty("iconP1.flipX", true)
         setScrollFactor("iconP1", 0, 0)
-        
+
         makeLuaSprite("iconP2", "icons/icon-face", 513, getProperty("healthBar.y") - 75)
         addLuaSprite("iconP2", true)
         setObjectCamera("iconP2", "hud")
         setScrollFactor("iconP2", 0, 0)
         changeIcon(getProperty("boyfriend.healthIcon"), getProperty("dad.healthIcon"))
-        
+
         setProperty("scoreTxt.visible", false)
         local size = getProperty("scoreTxt.size")
         -- local color = getProperty("scoreTxt.color")
@@ -69,13 +69,23 @@ function onCreatePost()
         setProperty("fscoreTxt.borderSize", 1.25)
         setProperty("fscoreTxt.alpha", alpha)
         setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))
-        
+
         setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
     end
 end
 
+function onEvent(eventName, value1, value2)
+    if eventName == "Change Character" then
+        if string.lower(value1) == "dad" or string.lower(value1) == "opponent" then
+            changeIcon(nil, value2)
+        else
+            changeIcon(value2, nil)
+        end
+    end
+end
+
 function changeIcon(char1, char2)
-    if char1 ~= iconP1Char then
+    if char1 ~= iconP1Char and char1 ~= nil then
         local name = "icons/"..char1
         if not checkFileExists("images/"..name..".png") then name = "icons/icon-"..char1 end
         if not checkFileExists("images/"..name..".png") then name = "icons/icon-face" end
@@ -98,7 +108,7 @@ function changeIcon(char1, char2)
         if stringEndsWith(char1, "-pixel") then setProperty("iconP1.antialiasing", false) end
     end
 
-    if char2 ~= iconP2Char then
+    if char2 ~= iconP2Char and char2 ~= nil then
         local name = "icons/"..char2
         if not checkFileExists("images/"..name..".png") then name = "icons/icon-"..char2 end
         if not checkFileExists("images/"..name..".png") then name = "icons/icon-face" end
