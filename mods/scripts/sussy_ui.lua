@@ -17,6 +17,8 @@ function onCreatePost()
     setProperty('timeTxt.x', getProperty('timeBar.x') +10)
     setProperty('timeTxt.y', getProperty('timeBar.y') -3)
 
+    setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
+
     setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
 end
 
