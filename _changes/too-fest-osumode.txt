@@ -10,6 +10,8 @@ mods/custom_events/NoteSpin.lua
 mods/custom_events/LyricsJPText.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
+mods/scripts/giraffehud.lua
+mods/scripts/hudmorelikepsych.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
@@ -17,6 +19,7 @@ mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
 mods/sounds/hitmarkers.ogg
 mods/fonts/keifont.ttf
+mods/fonts/vcr.ttf
 mods/fonts/arial.ttf
 mods/songs/too-fest/Voices.ogg
 mods/songs/too-fest/voices.ogg

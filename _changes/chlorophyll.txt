@@ -11,6 +11,8 @@ mods/images/characters/LIME_GRTEEN.xml
 mods/custom_events/Camera Flash.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
+mods/scripts/giraffehud.lua
+mods/scripts/hudmorelikepsych.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
@@ -21,7 +23,25 @@ mods/images/limegreen/O2Background.xml
 mods/images/limegreen/fansss.png
 mods/images/limegreen/fansss.xml
 mods/images/limegreen/switch.png
+mods/fonts/vcr.ttf
+mods/images/icons/icon-ahogo.png
+mods/images/icons/icon-aoken.png
+mods/images/icons/icon-lime.png
+mods/images/icons/icon-shinohaji.png
+mods/images/icons/icon-sin.png
+mods/images/icons/icon-burakku.png
+mods/images/icons/icon-cyan.png
+mods/images/icons/icon-devilg.png
+mods/images/icons/icon-gfangry.png
+mods/images/icons/icon-giraffe.png
+mods/images/icons/icon-moyashiro.png
+mods/images/icons/icon-girufy.png
+mods/images/icons/icon-radio.png
+mods/images/icons/icon-bf.png
+mods/images/icons/icon-pico.png
+mods/images/icons/icon-redmungus.png
 mods/images/limegreen/noteSplashes.png
+mods/images/limegreen/noteSplashes.xml
 mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/chlorophyll/Voices.ogg

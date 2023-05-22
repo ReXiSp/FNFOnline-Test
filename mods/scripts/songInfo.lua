@@ -25,7 +25,8 @@ function onCreate()
         end
     end
 
-    if songempty then
+    if not songempty then
+        close()
         return
     end
 

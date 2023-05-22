@@ -25,7 +25,7 @@ function onUpdatePost()
     elseif ratingFC == 'SDCB' then ratingFC = ''
     elseif ratingFC == 'Clear' then ratingFC = ''
     end
-  
+    setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
     if hits == 0 then
       setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
     else 
@@ -48,3 +48,22 @@ function round(x, n) --https://stackoverflow.com/questions/18313171/lua-rounding
     if x >= 0 then x = math.floor(x + 0.5) else x = math.ceil(x - 0.5) end
     return x / n
  end
+
+ function rgbToHex(r,g,b)
+  -- EXPLANATION:
+  -- The integer form of RGB is 0xRRGGBB
+  -- Hex for red is 0xRR0000
+  -- Multiply red value by 0x10000(65536) to get 0xRR0000
+  -- Hex for green is 0x00GG00
+  -- Multiply green value by 0x100(256) to get 0x00GG00
+  -- Blue value does not need multiplication.
+
+  -- Final step is to add them together
+  -- (r * 0x10000) + (g * 0x100) + b =
+  -- 0xRR0000 +
+  -- 0x00GG00 +
+  -- 0x0000BB =
+  -- 0xRRGGBB
+  local rgb = (r * 0x10000) + (g * 0x100) + b
+  return string.format("%x", rgb)
+end

@@ -1,6 +1,10 @@
 local noteanimfragahh = true;
 local dadstun = false;
 function onCreate()
+
+	--fnf online shit lmao
+	--makeAnimatedLuaSprite("yeahthisisdummylololololol", "Bullet_Note")
+
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Bullet_Note' then --Check if the note on the chart is a Bullet Note

@@ -39,9 +39,11 @@ end
 
 function onCreatePost()
     --note splash
-    -- precacheImage("limegreen/noteSplashes")
-    -- setPropertyFromClass("states.PlayState", "SONG.splashSkin", "limegreen/noteSplashes")
-    -- setPropertyFromClass("PlayState", "SONG.splashSkin", "limegreen/noteSplashes") --for legacy
+    -- for fnf online lmao
+    -- makeAnimatedLuaSprite(graphicTag.."noteSplashes", "limegreen/noteSplashes")
+    precacheImage("limegreen/noteSplashes")
+    setPropertyFromClass("states.PlayState", "SONG.splashSkin", "limegreen/noteSplashes")
+    setPropertyFromClass("PlayState", "SONG.splashSkin", "limegreen/noteSplashes") --for legacy
 
     if uiChange then
         --score txt
@@ -83,7 +85,7 @@ function onUpdatePost(elapsed)
 end
 
 function onDestroy()
-    setPropertyFromClass("lime.app.Application", "current.window.title", "Friday Night Funkin': Psych Engine")
+    -- setPropertyFromClass("lime.app.Application", "current.window.title", "Friday Night Funkin': Psych Engine")
 end
 
 function onBeatHit()

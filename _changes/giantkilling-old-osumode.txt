@@ -4,11 +4,14 @@ mods/stages/stream.json
 mods/stages/stream.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
+mods/scripts/giraffehud.lua
+mods/scripts/hudmorelikepsych.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
+mods/fonts/vcr.ttf
 mods/fonts/arial.ttf
 mods/songs/giantkilling-old/Voices.ogg
 mods/songs/giantkilling-old/voices.ogg
