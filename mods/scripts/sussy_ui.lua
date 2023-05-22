@@ -16,6 +16,8 @@ function onCreatePost()
     setProperty('timeBar.color', getColorFromHex('44d844'))
     setProperty('timeTxt.x', getProperty('timeBar.x') +10)
     setProperty('timeTxt.y', getProperty('timeBar.y') -3)
+
+    setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
 end
 
 function onUpdatePost()
@@ -25,7 +27,6 @@ function onUpdatePost()
     elseif ratingFC == 'SDCB' then ratingFC = ''
     elseif ratingFC == 'Clear' then ratingFC = ''
     end
-    setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
     if hits == 0 then
       setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
     else 

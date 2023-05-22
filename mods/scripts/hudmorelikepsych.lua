@@ -69,6 +69,9 @@ function onCreatePost()
     setProperty("fscoreTxt.alpha", alpha)
     setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))
 
+    setProperty("iconP1.x", getProperty("healthBar.x") + (getProperty("healthBar.width") * (math.remapToRange(getProperty("healthBar.percent"), 0, 100, 100, 0) * 0.01)) + (150 * getProperty("iconP1.scale.x") - 150) / 2 - iconOffset)
+    setProperty("iconP2.x", getProperty("healthBar.x") + (getProperty("healthBar.width") * (math.remapToRange(getProperty("healthBar.percent"), 0, 100, 100, 0) * 0.01)) - (150 * getProperty("iconP2.scale.x")) / 2 - iconOffset * 2)
+
     setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
 end
 
