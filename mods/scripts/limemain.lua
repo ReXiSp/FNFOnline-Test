@@ -38,6 +38,7 @@ function onCreate()
 end
 
 function onCreatePost()
+    -- luaDebugMode = true
     --note splash
     -- for fnf online lmao
     -- makeAnimatedLuaSprite(graphicTag.."noteSplashes", "limegreen/noteSplashes")
@@ -47,7 +48,9 @@ function onCreatePost()
 
     if uiChange then
         --score txt
-        setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
+        if not getPropertyFromClass("ClientPrefs", "osuMode") then
+            setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
+        end
 
         --disable timebar
         setProperty("timeTxt.visible", false)

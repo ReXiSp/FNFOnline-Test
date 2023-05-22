@@ -14,6 +14,7 @@ mods/stages/concert.lua
 mods/images/characters/no-gf.png
 mods/images/characters/no-gf.xml
 mods/custom_events/CameraFlash.lua
+mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
@@ -36,6 +37,17 @@ mods/images/BG/shin.png
 mods/images/BG/shin.xml
 mods/images/BG/cyan.png
 mods/images/BG/cyan.xml
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/images/icons/icon-ahogo.png
 mods/images/icons/icon-aoken.png

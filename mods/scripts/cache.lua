@@ -1,0 +1,13 @@
+function onCreatePost()
+    -- playSound('foo', 1)
+    -- playSound('punch', 1)
+    -- playSound('hankshoot', 1)
+    -- playSound('asago_death', 1)
+    -- playSound('bruh', 1)
+    -- playSound('dbwarp', 1)
+    -- playSound('hitmarkers', 1)
+    -- playSound('sin_blaster', 1)
+    -- playSound('sin_damage', 1)
+    -- playSound('sin_death', 1)
+    -- playSound('vine', 1)
+end

@@ -18,6 +18,7 @@ mods/stages/giragus.lua
 mods/images/characters/BOYFRIENDDD.png
 mods/images/characters/BOYFRIENDDD.xml
 mods/custom_events/sabotage.lua
+mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
@@ -30,6 +31,17 @@ mods/scripts/sussy_ui.lua
 mods/images/BG/giragus/amo.png
 mods/images/BG/giragus/yooo.png
 mods/images/BG/giragus/sabotage.png
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/images/icons/icon-ahogo.png
 mods/images/icons/icon-aoken.png

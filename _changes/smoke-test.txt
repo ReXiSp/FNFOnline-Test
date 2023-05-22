@@ -13,6 +13,7 @@ mods/images/characters/moyashiro.xml
 mods/images/characters/citygf.png
 mods/images/characters/citygf.xml
 mods/custom_events/Toggle camZooming.lua
+mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
@@ -30,6 +31,17 @@ mods/images/BG/week2/shartize.png
 mods/images/BG/week2/shartize.xml
 mods/images/BG/week2/shartizer.png
 mods/images/BG/week2/shartizer.xml
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/images/icons/icon-ahogo.png
 mods/images/icons/icon-aoken.png

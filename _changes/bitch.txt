@@ -13,6 +13,7 @@ mods/images/characters/mp4_bf.xml
 mods/images/characters/mp4_mungus.png
 mods/images/characters/mp4_mungus.xml
 mods/custom_events/hudTweenAlpha.lua
+mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
@@ -28,6 +29,17 @@ mods/images/bg2.png
 mods/images/vign.png
 mods/images/warch.png
 mods/images/warch.xml
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/images/icons/icon-ahogo.png
 mods/images/icons/icon-aoken.png

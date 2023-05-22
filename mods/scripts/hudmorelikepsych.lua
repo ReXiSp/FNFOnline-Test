@@ -20,7 +20,7 @@ function math.boundTo(value, min, max)
 end
 
 function onCreatePost()
-    luaDebugMode = true
+    -- luaDebugMode = true
 
     setTextFont("scoreTxt", "vcr.ttf")
     setTextFont("timeTxt", "vcr.ttf")
@@ -42,34 +42,36 @@ function onCreatePost()
     -- makeLuaSprite("icon", "icons/icon-bf")
     -- makeLuaSprite("icon", "icons/icon-pico")
     -- makeLuaSprite("icon", "icons/icon-redmungus")
-
-    makeLuaSprite("iconP1", "icons/icon-face", 614, getProperty("healthBar.y") - 75)
-    addLuaSprite("iconP1", true)
-    setObjectCamera("iconP1", "hud")
-    setProperty("iconP1.flipX", true)
-    setScrollFactor("iconP1", 0, 0)
-
-    makeLuaSprite("iconP2", "icons/icon-face", 513, getProperty("healthBar.y") - 75)
-    addLuaSprite("iconP2", true)
-    setObjectCamera("iconP2", "hud")
-    setScrollFactor("iconP2", 0, 0)
-    changeIcon(getProperty("boyfriend.healthIcon"), getProperty("dad.healthIcon"))
-
-    setProperty("scoreTxt.visible", false)
-    local size = getProperty("scoreTxt.size")
-    -- local color = getProperty("scoreTxt.color")
-    local alpha = getProperty("scoreTxt.alpha")
-    makeLuaText("fscoreTxt", getTextString("scoreTxt"), screenWidth, 0, getProperty("healthBar.y") + 32)
-    addLuaText("fscoreTxt", true)
-    setTextSize("fscoreTxt", size)
-    -- setTextColor("fscoreTxt", color)
-    setTextAlignment("fscoreTxt", "center")
-    setTextBorder("fscoreTxt", 1.25, "000000")
-    setProperty("fscoreTxt.borderSize", 1.25)
-    setProperty("fscoreTxt.alpha", alpha)
-    setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))
-
-    setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
+    
+    if not getPropertyFromClass("ClientPrefs", "osuMode") then
+        makeLuaSprite("iconP1", "icons/icon-face", 614, getProperty("healthBar.y") - 75)
+        addLuaSprite("iconP1", true)
+        setObjectCamera("iconP1", "hud")
+        setProperty("iconP1.flipX", true)
+        setScrollFactor("iconP1", 0, 0)
+        
+        makeLuaSprite("iconP2", "icons/icon-face", 513, getProperty("healthBar.y") - 75)
+        addLuaSprite("iconP2", true)
+        setObjectCamera("iconP2", "hud")
+        setScrollFactor("iconP2", 0, 0)
+        changeIcon(getProperty("boyfriend.healthIcon"), getProperty("dad.healthIcon"))
+        
+        setProperty("scoreTxt.visible", false)
+        local size = getProperty("scoreTxt.size")
+        -- local color = getProperty("scoreTxt.color")
+        local alpha = getProperty("scoreTxt.alpha")
+        makeLuaText("fscoreTxt", getTextString("scoreTxt"), screenWidth, 0, getProperty("healthBar.y") + 32)
+        addLuaText("fscoreTxt", true)
+        setTextSize("fscoreTxt", size)
+        -- setTextColor("fscoreTxt", color)
+        setTextAlignment("fscoreTxt", "center")
+        setTextBorder("fscoreTxt", 1.25, "000000")
+        setProperty("fscoreTxt.borderSize", 1.25)
+        setProperty("fscoreTxt.alpha", alpha)
+        setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))
+        
+        setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
+    end
 end
 
 function changeIcon(char1, char2)
@@ -166,7 +168,9 @@ function onUpdatePost(elapsed)
     setProperty("fscoreTxt.scale.y", getProperty("scoreTxt.scale.y"))
     setProperty("fscoreTxt.alpha", getProperty("scoreTxt.alpha"))
 
-    setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
+    if not getPropertyFromClass("ClientPrefs", "osuMode") then
+        setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
+    end
 end
 
 function rgbToHex(r,g,b)

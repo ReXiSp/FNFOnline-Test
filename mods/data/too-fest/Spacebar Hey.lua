@@ -1,5 +1,7 @@
 function onUpdate()
 	if keyJustPressed('space') then
+
+		-- playSound('vine', 0.6);
 		runTimer('yeah', 1, 1)
 		stopSound('moron')
 		playSound('vine', 0.5, 'moron');

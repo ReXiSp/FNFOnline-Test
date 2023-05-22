@@ -10,6 +10,7 @@ mods/stages/outside.json
 mods/stages/outside.lua
 mods/custom_notetypes/Bullet_Note.lua
 mods/custom_events/CameraFlash.lua
+mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
@@ -20,6 +21,16 @@ mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
 mods/sounds/hankshoot.ogg
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/fonts/arial.ttf
 mods/songs/cosmos-sign/Voices.ogg

@@ -1,7 +1,7 @@
 
 local isGiraffeSong = false
 local giraffeSongs = {
-    "total-exhausion",
+    "total-exhaustion",
     "ranker",
     "lost-oneself",
     "smoke-test",
@@ -59,16 +59,18 @@ end
 
 function onUpdatePost(elapsed)
     if isGiraffeSong then
-        local mult = math.lerp(1, getProperty("iconP1.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
-        scaleObject("iconP1", mult, 1)
-        -- updateHitbox("iconP1")
-    
-        local mult = math.lerp(1, getProperty("iconP2.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
-        scaleObject("iconP2", mult, 1)
-        -- updateHitbox("iconP2")
-    
+        if not getPropertyFromClass("ClientPrefs", "osuMode") then
+            local mult = math.lerp(1, getProperty("iconP1.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+            scaleObject("iconP1", mult, 1)
+            -- updateHitbox("iconP1")
+            
+            local mult = math.lerp(1, getProperty("iconP2.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
+            scaleObject("iconP2", mult, 1)
+            -- updateHitbox("iconP2")
+            
+            setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+        end 
         setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
-        setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
     else
 
         local mult = math.lerp(1, getProperty("iconP1.scale.x"), math.boundTo(1 - (elapsed * 9 * playbackRate), 0, 1))
