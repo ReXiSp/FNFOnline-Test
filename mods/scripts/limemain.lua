@@ -47,7 +47,7 @@ function onCreatePost()
 
     if uiChange then
         --score txt
-        setTextColor("scoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
+        setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
 
         --disable timebar
         setProperty("timeTxt.visible", false)
