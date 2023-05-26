@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Himlen.png">
+<SubTexture name="Himlen idle0000" x="921" y="0" width="306" height="540" frameX="0" frameY="-8" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0001" x="921" y="0" width="306" height="540" frameX="0" frameY="-8" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0002" x="614" y="0" width="307" height="543" frameX="-2" frameY="-5" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0003" x="614" y="0" width="307" height="543" frameX="-2" frameY="-5" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0004" x="308" y="0" width="306" height="546" frameX="-5" frameY="-2" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0005" x="308" y="0" width="306" height="546" frameX="-5" frameY="-2" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0006" x="0" y="0" width="308" height="548" frameX="-6" frameY="0" frameWidth="314" frameHeight="548" />
+<SubTexture name="Himlen idle0007" x="0" y="0" width="308" height="548" frameX="-6" frameY="0" frameWidth="314" frameHeight="548" />
+</TextureAtlas>

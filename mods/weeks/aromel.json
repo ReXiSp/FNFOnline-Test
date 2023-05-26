@@ -1,0 +1,49 @@
+{
+	"storyName": "Full of encounters",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "aromel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"loud",
+			"melti",
+			[
+				159,
+				76,
+				255
+			]
+		],
+		[
+			"rapid",
+			"aroma",
+			[
+				59,
+				226,
+				255
+			]
+		],
+		[
+			"reconciliation",
+			"aromel",
+			[
+				143,
+				112,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "AromelWee"
+}

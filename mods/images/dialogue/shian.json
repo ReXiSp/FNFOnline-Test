@@ -1,0 +1,76 @@
+{
+	"position": [
+		-190,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "shian",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shian_dialogue normal",
+			"idle_name": "shian_dialogue normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shian_dialogue hmm",
+			"idle_name": "shian_dialogue hmm"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shian_dialogue smile",
+			"idle_name": "shian_dialogue smile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shian_dialogue huh",
+			"idle_name": "shian_dialogue huh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shian_dialogue angry",
+			"idle_name": "shian_dialogue angry"
+		}
+	]
+}

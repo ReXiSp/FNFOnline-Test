@@ -1,0 +1,86 @@
+{
+	"dialogue": [
+    {
+      "expression": "8",
+      "text": "Oh, my microphone...",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "silfa",
+      "portrait": "silfa"
+    },
+    {
+      "expression": "5",
+      "text": "But it's still strong...",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "silfa",
+      "portrait": "silfa"
+    },
+		{
+			"expression": "excited",
+			"text": "beep!(Yeah!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+    {
+      "expression": "3",
+      "text": "......",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "shian",
+      "portrait": "shian"
+    },
+		{
+			"expression": "talk",
+			"text": "What's wrong with you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Shian jumps out with great force.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nocharacter"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh my God!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+    {
+      "expression": "4",
+      "text": "I've been listening to your rap battles and it's making me want to sing too!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "shian",
+      "portrait": "shian"
+    },
+		{
+			"expression": "confused",
+			"text": "beebop!?(What!?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+    {
+      "expression": "4",
+      "text": "BF, play with me too!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "shian",
+      "portrait": "shian"
+    },
+		{
+			"expression": "talk",
+			"text": "beep...bop beep!(Um... of course you can!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

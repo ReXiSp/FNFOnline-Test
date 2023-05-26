@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "jp",
+		"player1": "nanase",
+		"player2": "jpsinglebonus",
+		"player3": null,
+		"events": [
+			[
+				58181.8181818182,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdoublebonus"
+					]
+				]
+			],
+			[
+				86818.1818181819,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpsinglebonus"
+					]
+				]
+			],
+			[
+				112272.727272727,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdoublebonus"
+					]
+				]
+			],
+			[
+				116363.636363636,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpsinglebonus"
+					]
+				]
+			],
+			[
+				143181.818181818,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdoublebonus"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gfbeta",
+		"bpm": 132,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "retaliation"
+	}
+}

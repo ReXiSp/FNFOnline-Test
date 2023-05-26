@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-20,
+		10
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Meltical normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical wink",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical wink",
+			"anim": "Wink",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical smile",
+			"anim": "Smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical surprised0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical surprised0",
+			"anim": "Surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical surprised2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical surprised2",
+			"anim": "Surprised2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Meltical angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Meltical angry",
+			"anim": "Angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Meltical"
+}

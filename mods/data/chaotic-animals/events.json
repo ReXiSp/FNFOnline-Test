@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "ShialfabetaBonus",
+		"player1": "playablesilfa",
+		"player2": "Shianbonus",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"3rdstrum",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				138695.652173913,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gfbeta",
+		"bpm": 138,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "chaotic-animals"
+	}
+}

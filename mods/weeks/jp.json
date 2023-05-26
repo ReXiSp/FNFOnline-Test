@@ -1,0 +1,49 @@
+{
+	"storyName": "What happend during the holidays",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "jp",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Obresti",
+			"plus",
+			[
+				204,
+				28,
+				46
+			]
+		],
+		[
+			"Nuotrauka",
+			"photo",
+			[
+				204,
+				28,
+				46
+			]
+		],
+		[
+			"The-bond-of-twins",
+			"jp",
+			[
+				204,
+				28,
+				46
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "JPWeek"
+}

@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-180,
+		-190
+	],
+	"scale": 1.25,
+	"animations": [
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "0",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue normal",
+      "loop_name": "silfa_dialogue normal"
+    },
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "1",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue smile",
+      "loop_name": "silfa_dialogue smile"
+    },
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "2",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue happy",
+      "loop_name": "silfa_dialogue happy"
+    },
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "3",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue nomicsmile",
+      "loop_name": "silfa_dialogue nomicsmile"
+    },
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "4",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue shock",
+      "loop_name": "silfa_dialogue shock"
+    },
+    {
+      "loop_name": "silfa_dialogue angry",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue angry",
+      "anim": "5",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "silfa_dialogue nomicnormal",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue nomicnormal",
+      "anim": "6",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "silfa_dialogue nomichappy",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue nomichappy",
+      "anim": "7",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "silfa_dialogue nomicangry",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue nomicangry",
+      "anim": "8",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "silfa_dialogue sad",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "silfa_dialogue sad",
+      "anim": "9",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    }
+	],
+	"image": "silfa"
+}

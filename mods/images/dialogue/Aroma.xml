@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Aroma.png"><SubTexture name="Aroma normal0000" x="0" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="Aroma happy0000" x="852" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="Aroma wink0000" x="0" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="Aroma smile0000" x="852" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="Aroma hmm0000" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="Aroma glad0000" x="852" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+</TextureAtlas>

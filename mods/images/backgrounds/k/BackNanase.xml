@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BackNanase.png">
+<SubTexture name="BackNanase idle0000" x="455" y="0" width="157" height="300" frameX="0" frameY="-10" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0001" x="455" y="0" width="157" height="300" frameX="0" frameY="-10" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0002" x="302" y="0" width="153" height="304" frameX="-2" frameY="-6" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0003" x="302" y="0" width="153" height="304" frameX="-2" frameY="-6" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0004" x="151" y="0" width="151" height="307" frameX="-3" frameY="-3" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0005" x="151" y="0" width="151" height="307" frameX="-3" frameY="-3" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0006" x="0" y="0" width="151" height="310" frameX="-3" frameY="0" frameWidth="157" frameHeight="310" />
+<SubTexture name="BackNanase idle0007" x="0" y="0" width="151" height="310" frameX="-3" frameY="0" frameWidth="157" frameHeight="310" />
+</TextureAtlas>

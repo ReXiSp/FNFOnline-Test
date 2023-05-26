@@ -1,0 +1,379 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "meltical",
+		"player1": "bf",
+		"player2": "aroma",
+		"player3": null,
+		"events": [
+			[
+				53210.5263157895,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				53526.3157894737,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				53842.1052631579,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				54157.8947368421,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				54473.6842105263,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				54789.4736842105,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				55105.2631578947,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				55263.1578947368,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				55421.0526315789,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				71684.2105263157,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				74210.5263157894,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				76736.8421052631,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				79263.1578947368,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				79736.8421052631,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				80052.6315789473,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				80368.4210526315,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				80526.3157894736,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				80684.2105263157,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				91263.1578947368,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				91815.7894736841,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				92526.3157894736,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				93157.894736842,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				93789.4736842104,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				94342.1052631578,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				95052.6315789473,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				95368.4210526315,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				95684.2105263157,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				96315.7894736841,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				96868.4210526315,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				97578.947368421,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				98210.5263157894,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				98842.1052631578,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				99394.7368421052,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				100105.263157895,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				100421.052631579,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			],
+			[
+				100736.842105263,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Rapid"
+	}
+}

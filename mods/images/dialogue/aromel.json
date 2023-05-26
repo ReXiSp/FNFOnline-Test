@@ -1,0 +1,37 @@
+{
+	"position": [
+		-150,
+		-120
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "AroMel",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "AroMel normal",
+			"idle_name": "AroMel normal"
+		},
+		{
+			"loop_name": "AroMel surprised",
+			"idle_offsets": [
+				-2,
+				-2
+			],
+			"idle_name": "AroMel surprised",
+			"anim": "Surprised",
+			"loop_offsets": [
+				-2,
+				-2
+			]
+		}
+	]
+}

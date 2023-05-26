@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "Shialfabeta",
+		"player1": "bf",
+		"player2": "silfa",
+		"player3": null,
+		"events": [
+			[
+				90769.2307692309,
+				[
+					[
+						"Play Animation",
+						"Micfall",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfwithshian",
+		"bpm": 195,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Frying"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JPdouble idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JPdouble left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JPdouble right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JPdouble down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JPdouble up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "animation",
+			"fps": 24,
+			"name": "JPdouble animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JPdouble",
+	"position": [
+		-340,
+		-130
+	],
+	"healthicon": "jp2",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		28,
+		66
+	],
+	"camera_position": [
+		120,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

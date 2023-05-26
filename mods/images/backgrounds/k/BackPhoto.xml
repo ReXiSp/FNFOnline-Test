@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BackPhoto.png">
+<SubTexture name="BackPhoto idle0000" x="374" y="0" width="130" height="332" frameX="0" frameY="-7" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0001" x="374" y="0" width="130" height="332" frameX="0" frameY="-7" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0002" x="248" y="0" width="126" height="337" frameX="-2" frameY="-2" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0003" x="248" y="0" width="126" height="337" frameX="-2" frameY="-2" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0004" x="0" y="0" width="124" height="339" frameX="-3" frameY="0" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0005" x="0" y="0" width="124" height="339" frameX="-3" frameY="0" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0006" x="124" y="0" width="124" height="339" frameX="-3" frameY="0" frameWidth="130" frameHeight="339" />
+<SubTexture name="BackPhoto idle0007" x="124" y="0" width="124" height="339" frameX="-3" frameY="0" frameWidth="130" frameHeight="339" />
+</TextureAtlas>

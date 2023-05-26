@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Meltical.png"><SubTexture name="Meltical normal0000" x="0" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical happy0000" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical wink0000" x="0" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical smile0000" x="604" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical surprised0000" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical surprised20000" x="604" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical angry0000" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+</TextureAtlas>

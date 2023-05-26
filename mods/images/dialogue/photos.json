@@ -1,0 +1,24 @@
+{
+	"position": [
+		-150,
+		-110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "PhotoS",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "PhotoS normal",
+			"idle_name": "PhotoS normal"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"dialogue": [
+    {
+      "expression": "Smile",
+      "text": "It was so much fun! I love your voice, so I was happy!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "mel",
+      "portrait": "meltical"
+    },
+		{
+			"expression": "talk",
+			"text": "beep bop bap (I'm glad you enjoyed it.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(The three of them are talking for a while.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nocharacter"
+		},
+    {
+      "expression": "Happy",
+      "text": "It looks like you're having fun, so let me join in~!!!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+		{
+			"expression": "shocked",
+			"text": "bep!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "what!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+    {
+      "expression": "Surprised",
+      "text": "huh!?",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "mel",
+      "portrait": "meltical"
+    },
+    {
+      "expression": "Wink",
+      "text": "Oh, I've got a microphone, so let's sing right away~!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+		{
+			"expression": "confused",
+			"text": "beep...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "....",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+    {
+      "expression": "Surprised",
+      "text": "....",
+      "boxState": "normal",
+      "sound": "mel",
+      "portrait": "meltical",
+      "speed": 0.05
+    }
+	]
+}

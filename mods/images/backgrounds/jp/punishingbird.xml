@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="punishingbird.png">
+<SubTexture name="punishingbird idle0000" x="188" y="0" width="99" height="88" frameX="0" frameY="-6" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0001" x="188" y="0" width="99" height="88" frameX="0" frameY="-6" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0002" x="0" y="94" width="97" height="89" frameX="-1" frameY="-5" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0003" x="0" y="94" width="97" height="89" frameX="-1" frameY="-5" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0004" x="93" y="0" width="95" height="91" frameX="-2" frameY="-3" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0005" x="93" y="0" width="95" height="91" frameX="-2" frameY="-3" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0006" x="0" y="0" width="93" height="94" frameX="-3" frameY="0" frameWidth="99" frameHeight="94" />
+<SubTexture name="punishingbird idle0007" x="0" y="0" width="93" height="94" frameX="-3" frameY="0" frameWidth="99" frameHeight="94" />
+</TextureAtlas>

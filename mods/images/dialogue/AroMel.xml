@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AroMel.png"><SubTexture name="AroMel normal0000" x="0" y="0" width="856" height="899" frameX="0" frameY="0" frameWidth="856" frameHeight="899" />
+<SubTexture name="AroMel surprised0000" x="0" y="899" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+</TextureAtlas>

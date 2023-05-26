@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CS_Kyle idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CS_Kyle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CS_Kyle right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CS_Kyle down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CS_Kyle up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "change",
+			"fps": 24,
+			"name": "CS_Kyle change",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "CS_Kyle dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CS_Kyle",
+	"position": [
+		-60,
+		-150
+	],
+	"healthicon": "kyle",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		0,
+		13
+	],
+	"camera_position": [
+		170,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

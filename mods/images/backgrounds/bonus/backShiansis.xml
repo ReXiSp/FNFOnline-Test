@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backShiansis.png">
+<SubTexture name="backShiansis idle0000" x="567" y="0" width="298" height="424" frameX="0" frameY="-7" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0001" x="567" y="0" width="298" height="424" frameX="0" frameY="-7" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0002" x="0" y="431" width="291" height="424" frameX="-4" frameY="-7" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0003" x="0" y="431" width="291" height="424" frameX="-4" frameY="-7" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0004" x="282" y="0" width="285" height="426" frameX="-7" frameY="-5" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0005" x="282" y="0" width="285" height="426" frameX="-7" frameY="-5" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0006" x="0" y="0" width="282" height="431" frameX="-7" frameY="0" frameWidth="298" frameHeight="431" />
+<SubTexture name="backShiansis idle0007" x="0" y="0" width="282" height="431" frameX="-7" frameY="0" frameWidth="298" frameHeight="431" />
+</TextureAtlas>

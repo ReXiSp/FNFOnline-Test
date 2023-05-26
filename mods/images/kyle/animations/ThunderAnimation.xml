@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ThunderAnimation.png">
+<SubTexture name="ThunderAnimation Idle0000" x="0" y="0" width="1" height="1" />
+<SubTexture name="ThunderAnimation fall0000" x="0" y="0" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0001" x="0" y="0" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0002" x="404" y="0" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0003" x="404" y="0" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0004" x="0" y="1004" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0005" x="0" y="1004" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0006" x="404" y="1004" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0007" x="404" y="1004" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0008" x="0" y="2008" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0009" x="0" y="2008" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0010" x="404" y="2008" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0011" x="404" y="2008" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0012" x="0" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0013" x="0" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0014" x="404" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0015" x="404" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0016" x="404" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0017" x="404" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+<SubTexture name="ThunderAnimation fall0018" x="404" y="3012" width="404" height="1004" frameX="0" frameY="0" frameWidth="404" frameHeight="1004" />
+</TextureAtlas>

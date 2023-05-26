@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="butterflies.png">
+<SubTexture name="butterflies idle0000" x="448" y="0" width="154" height="224" frameX="0" frameY="-4" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0001" x="448" y="0" width="154" height="224" frameX="0" frameY="-4" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0002" x="296" y="0" width="152" height="226" frameX="-1" frameY="-3" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0003" x="296" y="0" width="152" height="226" frameX="-1" frameY="-3" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0004" x="147" y="0" width="149" height="229" frameX="-3" frameY="-1" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0005" x="147" y="0" width="149" height="229" frameX="-3" frameY="-1" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0006" x="0" y="0" width="147" height="231" frameX="-4" frameY="0" frameWidth="154" frameHeight="231" />
+<SubTexture name="butterflies idle0007" x="0" y="0" width="147" height="231" frameX="-4" frameY="0" frameWidth="154" frameHeight="231" />
+</TextureAtlas>

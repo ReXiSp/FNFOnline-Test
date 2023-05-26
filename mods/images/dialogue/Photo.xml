@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Photo.png"><SubTexture name="Photo p0p0000" x="0" y="0" width="308" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p1p0000" x="308" y="0" width="266" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p2p0000" x="574" y="0" width="266" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p3p0000" x="840" y="0" width="266" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p4p0000" x="1106" y="0" width="266" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p5p0000" x="1372" y="0" width="266" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p6p0000" x="0" y="698" width="315" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+<SubTexture name="Photo p7p0000" x="315" y="698" width="315" height="698" frameX="-301" frameY="-159" frameWidth="848" frameHeight="891" />
+</TextureAtlas>

@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-180,
+		-120
+	],
+	"scale": 1.25,
+  "animations": [
+    {
+      "loop_name": "Plus p0p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p0p",
+      "anim": "0",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p1p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p1p",
+      "anim": "1",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p2p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p2p",
+      "anim": "2",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p3p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p3p",
+      "anim": "3",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p4p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p4p",
+      "anim": "4",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p5p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p5p",
+      "anim": "5",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p6p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p6p",
+      "anim": "6",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p7p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p7p",
+      "anim": "7",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p8p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p8p",
+      "anim": "8",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p9p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p9p",
+      "anim": "9",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "loop_name": "Plus p10p",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "Plus p10p",
+      "anim": "10",
+      "loop_offsets": [
+        0,
+        0
+      ]
+    }
+  ],
+	"image": "Plus"
+}

@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nanase.png">
+<SubTexture name="Nanase idle0000" x="3416" y="2426" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0001" x="3416" y="2426" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0002" x="1078" y="3664" width="387" height="581" frameX="-380" frameY="-286" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0003" x="1078" y="3664" width="387" height="581" frameX="-380" frameY="-286" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0004" x="4102" y="0" width="364" height="592" frameX="-390" frameY="-275" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0005" x="4102" y="0" width="364" height="592" frameX="-390" frameY="-275" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0006" x="3755" y="0" width="347" height="597" frameX="-400" frameY="-270" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0007" x="3755" y="0" width="347" height="597" frameX="-400" frameY="-270" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0008" x="0" y="3061" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0009" x="0" y="3061" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0010" x="338" y="3061" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase idle0011" x="338" y="3061" width="338" height="603" frameX="-406" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0000" x="0" y="3664" width="545" height="590" frameX="-228" frameY="-277" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0001" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0002" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0003" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0004" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0005" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0006" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0007" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0008" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0009" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0010" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left0011" x="545" y="3664" width="533" height="589" frameX="-235" frameY="-278" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0000" x="3241" y="3664" width="598" height="560" frameX="-267" frameY="-307" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0001" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0002" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0003" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0004" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0005" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0006" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0007" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0008" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0009" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0010" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down0011" x="2057" y="3664" width="586" height="566" frameX="-273" frameY="-301" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0000" x="2044" y="0" width="314" height="755" frameX="-420" frameY="-100" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0001" x="2358" y="0" width="327" height="750" frameX="-417" frameY="-105" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0002" x="2358" y="0" width="327" height="750" frameX="-417" frameY="-105" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0003" x="994" y="901" width="314" height="764" frameX="-417" frameY="-91" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0004" x="994" y="901" width="314" height="764" frameX="-417" frameY="-91" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0005" x="2358" y="750" width="304" height="732" frameX="-417" frameY="-123" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0006" x="2358" y="750" width="304" height="732" frameX="-417" frameY="-123" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0007" x="1473" y="3061" width="331" height="600" frameX="-436" frameY="-267" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0008" x="1473" y="3061" width="331" height="600" frameX="-436" frameY="-267" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0009" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0010" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0011" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0012" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0013" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0014" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0015" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0016" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0017" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0018" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up0019" x="676" y="3061" width="306" height="603" frameX="-438" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0000" x="4102" y="592" width="334" height="588" frameX="-480" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0001" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0002" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0003" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0004" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0005" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0006" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0007" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0008" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0009" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0010" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right0011" x="4102" y="1180" width="325" height="588" frameX="-476" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0000" x="0" y="3664" width="545" height="590" frameX="-228" frameY="-277" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0001" x="1804" y="3061" width="545" height="598" frameX="-228" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0002" x="1804" y="3061" width="545" height="598" frameX="-228" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0003" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0004" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0005" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0006" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0007" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0008" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0009" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0010" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0011" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0012" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase left miss0013" x="2349" y="3061" width="543" height="598" frameX="-234" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0000" x="3241" y="3664" width="598" height="560" frameX="-267" frameY="-307" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0001" x="2643" y="3664" width="598" height="564" frameX="-267" frameY="-303" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0002" x="2643" y="3664" width="598" height="564" frameX="-267" frameY="-303" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0003" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0004" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0005" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0006" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0007" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0008" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0009" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0010" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0011" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0012" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0013" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase down miss0014" x="1465" y="3664" width="592" height="569" frameX="-270" frameY="-298" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0000" x="2044" y="0" width="314" height="755" frameX="-420" frameY="-100" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0001" x="2044" y="755" width="298" height="663" frameX="-420" frameY="-192" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0002" x="2044" y="755" width="298" height="663" frameX="-420" frameY="-192" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0003" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0004" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0005" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0006" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0007" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0008" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0009" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0010" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0011" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0012" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0013" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase up miss0014" x="2685" y="661" width="310" height="659" frameX="-414" frameY="-196" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0000" x="4102" y="592" width="334" height="588" frameX="-480" frameY="-279" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0001" x="2892" y="3061" width="334" height="598" frameX="-480" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0002" x="2892" y="3061" width="334" height="598" frameX="-480" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0003" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0004" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0005" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0006" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0007" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0008" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0009" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0010" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0011" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0012" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0013" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase right miss0014" x="3226" y="3061" width="335" height="598" frameX="-477" frameY="-269" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0000" x="982" y="3061" width="241" height="603" frameX="-453" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0001" x="1223" y="3061" width="250" height="603" frameX="-448" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0002" x="2906" y="2426" width="256" height="610" frameX="-445" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0003" x="3162" y="2426" width="254" height="609" frameX="-446" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0004" x="2645" y="2426" width="261" height="616" frameX="-442" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0005" x="2384" y="2426" width="261" height="623" frameX="-442" frameY="-264" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0006" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0007" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0008" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0009" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0010" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0011" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0012" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0013" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0014" x="2398" y="1686" width="261" height="633" frameX="-442" frameY="-265" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0015" x="2995" y="661" width="261" height="636" frameX="-442" frameY="-268" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0016" x="2995" y="661" width="261" height="636" frameX="-442" frameY="-268" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0017" x="2995" y="661" width="261" height="636" frameX="-442" frameY="-268" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0018" x="3256" y="661" width="272" height="635" frameX="-442" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0019" x="3256" y="661" width="272" height="635" frameX="-442" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0020" x="2685" y="1320" width="301" height="635" frameX="-429" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0021" x="2685" y="1320" width="301" height="635" frameX="-429" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0022" x="2986" y="1320" width="335" height="635" frameX="-412" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0023" x="2986" y="1320" width="335" height="635" frameX="-412" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0024" x="3321" y="1320" width="357" height="635" frameX="-401" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0025" x="1997" y="1686" width="401" height="635" frameX="-379" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0026" x="1997" y="1686" width="401" height="635" frameX="-379" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0027" x="0" y="2426" width="437" height="635" frameX="-361" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0028" x="0" y="2426" width="437" height="635" frameX="-361" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0029" x="437" y="2426" width="447" height="635" frameX="-356" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0030" x="437" y="2426" width="447" height="635" frameX="-356" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0031" x="0" y="0" width="1050" height="901" frameX="-15" frameY="-5" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0032" x="0" y="0" width="1050" height="901" frameX="-15" frameY="-5" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0033" x="0" y="0" width="1050" height="901" frameX="-15" frameY="-5" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0034" x="0" y="0" width="1050" height="901" frameX="-15" frameY="-5" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0035" x="2685" y="0" width="1070" height="661" frameX="-5" frameY="-245" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0036" x="884" y="2426" width="1003" height="635" frameX="-34" frameY="-271" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0037" x="497" y="1686" width="1003" height="738" frameX="-34" frameY="-168" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0038" x="1050" y="0" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0039" x="1547" y="0" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0040" x="0" y="901" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0041" x="1050" y="0" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0042" x="1547" y="0" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0043" x="1050" y="0" width="497" height="785" frameX="-306" frameY="-121" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0044" x="497" y="901" width="497" height="774" frameX="-306" frameY="-132" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0045" x="1308" y="901" width="497" height="762" frameX="-306" frameY="-144" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0046" x="0" y="1686" width="497" height="740" frameX="-306" frameY="-166" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0047" x="1500" y="1686" width="497" height="692" frameX="-306" frameY="-214" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0048" x="1887" y="2426" width="497" height="626" frameX="-306" frameY="-280" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0049" x="3839" y="3664" width="477" height="549" frameX="-306" frameY="-357" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0050" x="2685" y="1955" width="451" height="450" frameX="-306" frameY="-456" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0051" x="3136" y="1955" width="451" height="371" frameX="-306" frameY="-535" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0052" x="4466" y="0" width="448" height="258" frameX="-308" frameY="-648" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0053" x="0" y="4254" width="451" height="127" frameX="-306" frameY="-772" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0054" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0055" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0056" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover intro0057" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover loop0000" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover loop0001" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover loop0002" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover loop0003" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover end0000" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover end0001" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover end0002" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover end0003" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+<SubTexture name="Nanase gameover end0004" x="4466" y="258" width="203" height="71" frameX="-473" frameY="-828" frameWidth="1115" frameHeight="927" />
+</TextureAtlas>

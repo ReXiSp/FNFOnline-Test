@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "bap beep skebap!(Now, let's find someone to have a rap battle with this week!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You're as motivated as ever.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, that's him! He was doing something fun last week!",
+			"boxState": "normal",
+			"portrait": "pluss",
+			"speed": 0.05,
+			"sound": "plus"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, really. Why don't you go talk to him then? You wanted to do it, didn't you?",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photos"
+		},
+		{
+			"expression": "talk",
+			"text": "You sure? Do you have plans after this?",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "pluss"
+		},
+		{
+			"expression": "talk",
+			"text": "Not today. I'll follow you. Have fun.",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photos"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, I got it!",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "pluss"
+		},
+		{
+			"expression": "4",
+			"text": "Excuse me! gasp* May I have a word?",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "talk",
+			"text": "beep?(What's wrong?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "4",
+			"text": "I'm sorry to bother you all of a sudden, but this guy wants to sing with you guys.",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "talk",
+			"text": "beep! bop da bep?(Good! What are your names, by the way?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "4",
+			"text": "She is Plus. And I'm Photo.",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "4",
+			"text": "Oh, by the way, we don't have a microphone, but how can we ....",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, then use the two spare ones I have. Which one do you want?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "3",
+			"text": "Thank you, then this way ....",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "6",
+			"text": "Okay, sorry for the wait! Let's get started!",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "Good luck."
+		}
+	]
+}

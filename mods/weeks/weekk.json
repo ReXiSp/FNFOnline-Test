@@ -1,0 +1,50 @@
+{
+	"storyName": "Demon and Specter",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "weekk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Convide",
+			"kyle",
+			[
+				154,
+				0,
+				13
+			]
+		],
+		[
+			"Chiamare",
+			"kyle",
+			[
+				154,
+				0,
+				13
+			]
+		],
+		[
+			"Violet-Violence",
+			"kyleb",
+			[
+				154,
+				0,
+				13
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week K"
+}

@@ -1,0 +1,134 @@
+{
+	"dialogue": [
+		{
+			"expression": "2",
+			"text": "You know that cafe right there? I heard they have good apple juice there.",
+			"boxState": "normal",
+			"sound": "shian",
+			"portrait": "shian",
+			"speed": 0.05
+		},
+		{
+			"expression": "5",
+			"text": "Seriously, we've got to go!",
+			"boxState": "normal",
+			"sound": "silfa",
+			"portrait": "silfa",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "bep!(Ow!)",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "9",
+			"text": "Ugh!?",
+			"boxState": "normal",
+			"sound": "silfa",
+			"portrait": "silfa",
+			"speed": 0.05
+		},
+    {
+      "expression": "7",
+      "text": "Hey! Where are you looking...hmm?",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "I'm sorry. We were talking and walking...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+    {
+      "expression": "4",
+      "text": "That blue hair and hat... could it be your BF?",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "beep bop(Yes, it is.)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+    {
+      "expression": "5",
+      "text": "I knew it! I'm Silfa!",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+		{
+			"expression": "excited",
+			"text": "beep(Nice to meet you.)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bop bap beep?(By the way, do you want to have a rap battle with me?)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+    {
+      "expression": "5",
+      "text": "Of course you can! Do you want to do it, Shian?",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+    {
+      "expression": "1",
+      "text": "......No...",
+      "boxState": "normal",
+      "sound": "shian",
+      "portrait": "shian",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "Okay, let's get Mike...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+    {
+      "expression": "6",
+      "text": "Yeah, no problem. I can get it myself.",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "(Silfa will refine the microphone.)",
+			"boxState": "normal",
+			"portrait": "nocharacter",
+			"speed": 0.05
+		},
+    {
+      "expression": "2",
+      "text": "All right! Let's do it!",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    }
+	]
+}

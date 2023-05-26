@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "aromel",
+		"player1": "bf",
+		"player2": "meltical",
+		"player3": null,
+		"events": [
+			[
+				67058.8235294117,
+				[
+					[
+						"Camera Follow Pos",
+						"200",
+						"100"
+					]
+				]
+			],
+			[
+				67147.0588235293,
+				[
+					[
+						"Play Animation",
+						"BigLaugh",
+						"0"
+					]
+				]
+			],
+			[
+				67323.5294117646,
+				[
+					[
+						"Play Animation",
+						"BigLaugh",
+						"0"
+					]
+				]
+			],
+			[
+				67499.9999999999,
+				[
+					[
+						"Play Animation",
+						"BigLaugh",
+						"0"
+					]
+				]
+			],
+			[
+				67676.4705882352,
+				[
+					[
+						"Play Animation",
+						"BigLaugh",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Loud"
+	}
+}

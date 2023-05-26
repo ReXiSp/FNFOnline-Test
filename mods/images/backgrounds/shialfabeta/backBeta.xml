@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backBeta.png">
+<SubTexture name="backBeta idle0000" x="0" y="0" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0001" x="0" y="0" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0002" x="74" y="0" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0003" x="74" y="0" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0004" x="0" y="66" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0005" x="0" y="66" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+<SubTexture name="backBeta idle0006" x="74" y="66" width="74" height="66" frameX="0" frameY="0" frameWidth="74" frameHeight="66" />
+</TextureAtlas>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Meltical.png">
+<SubTexture name="Meltical down0000" x="0" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0001" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0002" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0003" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0004" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0005" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0006" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0007" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0008" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0009" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0010" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0011" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0012" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0013" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical down0014" x="604" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0000" x="1208" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0001" x="1208" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0002" x="1812" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0003" x="1812" y="0" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0004" x="0" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0005" x="0" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0006" x="604" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0007" x="604" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0008" x="1208" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0009" x="1208" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0010" x="1208" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0011" x="1208" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical idle0012" x="1208" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0000" x="1812" y="717" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0001" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0002" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0003" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0004" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0005" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0006" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0007" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0008" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0009" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0010" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0011" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0012" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0013" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical left0014" x="0" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0000" x="604" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0001" x="604" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0002" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0003" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0004" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0005" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0006" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0007" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0008" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical small laugh0009" x="1208" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0000" x="1812" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0001" x="1812" y="1434" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0002" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0003" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0004" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0005" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0006" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0007" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0008" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical big laugh0009" x="0" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0000" x="604" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0001" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0002" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0003" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0004" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0005" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0006" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0007" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0008" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0009" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0010" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0011" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0012" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical right0013" x="1208" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0000" x="1812" y="2151" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0001" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0002" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0003" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0004" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0005" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0006" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0007" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0008" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0009" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0010" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0011" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+<SubTexture name="Meltical up0012" x="0" y="2868" width="604" height="717" frameX="0" frameY="0" frameWidth="604" frameHeight="717" />
+</TextureAtlas>

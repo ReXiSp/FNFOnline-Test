@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Plus.png"><SubTexture name="Plus p0p0000" x="843" y="0" width="473" height="637" frameX="-258" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p1p0000" x="0" y="638" width="233" height="637" frameX="-313" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p2p0000" x="233" y="638" width="222" height="637" frameX="-313" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p3p0000" x="455" y="638" width="222" height="637" frameX="-313" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p4p0000" x="677" y="638" width="240" height="637" frameX="-313" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p5p0000" x="0" y="0" width="473" height="638" frameX="-258" frameY="-221" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p6p0000" x="1316" y="0" width="473" height="637" frameX="-258" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p7p0000" x="473" y="0" width="370" height="638" frameX="-273" frameY="-221" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p8p0000" x="1316" y="637" width="222" height="637" frameX="-310" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p9p0000" x="1538" y="637" width="222" height="637" frameX="-310" frameY="-222" frameWidth="848" frameHeight="891" />
+<SubTexture name="Plus p10p0000" x="917" y="638" width="222" height="637" frameX="-310" frameY="-222" frameWidth="848" frameHeight="891" />
+</TextureAtlas>

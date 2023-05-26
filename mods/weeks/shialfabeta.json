@@ -1,0 +1,49 @@
+{
+	"storyName": "Cororful animals",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "shialfabeta",
+	"weekBefore": "aromel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Frying",
+			"silfa",
+			[
+				0,
+				134,
+				164
+			]
+		],
+		[
+			"Pick-a-fight",
+			"shian",
+			[
+				111,
+				96,
+				107
+			]
+		],
+		[
+			"GOMADARE",
+			"beta",
+			[
+				247,
+				143,
+				210
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "ShilAlBetaWeek"
+}

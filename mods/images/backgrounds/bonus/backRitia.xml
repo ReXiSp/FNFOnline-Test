@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backRitia.png">
+<SubTexture name="backRitia idle0000" x="718" y="0" width="243" height="364" frameX="-2" frameY="-7" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0001" x="718" y="0" width="243" height="364" frameX="-2" frameY="-7" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0002" x="478" y="0" width="240" height="367" frameX="-1" frameY="-4" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0003" x="478" y="0" width="240" height="367" frameX="-1" frameY="-4" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0004" x="239" y="0" width="239" height="368" frameX="0" frameY="-3" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0005" x="239" y="0" width="239" height="368" frameX="0" frameY="-3" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0006" x="0" y="0" width="239" height="371" frameX="0" frameY="0" frameWidth="245" frameHeight="371" />
+<SubTexture name="backRitia idle0007" x="0" y="0" width="239" height="371" frameX="0" frameY="0" frameWidth="245" frameHeight="371" />
+</TextureAtlas>

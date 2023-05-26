@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Katona.png">
+<SubTexture name="Katona idle0000" x="0" y="394" width="269" height="388" frameX="0" frameY="-6" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0001" x="0" y="394" width="269" height="388" frameX="0" frameY="-6" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0002" x="260" y="0" width="265" height="392" frameX="-1" frameY="-2" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0003" x="260" y="0" width="265" height="392" frameX="-1" frameY="-2" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0004" x="525" y="0" width="262" height="392" frameX="-3" frameY="-2" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0005" x="525" y="0" width="262" height="392" frameX="-3" frameY="-2" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0006" x="0" y="0" width="260" height="394" frameX="-4" frameY="0" frameWidth="269" frameHeight="394" />
+<SubTexture name="Katona idle0007" x="0" y="0" width="260" height="394" frameX="-4" frameY="0" frameWidth="269" frameHeight="394" />
+</TextureAtlas>

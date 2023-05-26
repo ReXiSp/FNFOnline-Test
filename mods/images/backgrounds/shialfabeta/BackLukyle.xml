@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BackLukyle.png">
+<SubTexture name="BackLukyle idle0000" x="0" y="0" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0001" x="0" y="0" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0002" x="316" y="0" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0003" x="316" y="0" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0004" x="0" y="279" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0005" x="0" y="279" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0006" x="316" y="279" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+<SubTexture name="BackLukyle idle0007" x="316" y="279" width="316" height="279" frameX="0" frameY="0" frameWidth="316" frameHeight="279" />
+</TextureAtlas>

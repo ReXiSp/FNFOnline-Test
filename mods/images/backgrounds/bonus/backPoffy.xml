@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backPoffy.png">
+<SubTexture name="backPoffy idle0000" x="0" y="287" width="210" height="281" frameX="-8" frameY="-18" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0001" x="0" y="287" width="210" height="281" frameX="-8" frameY="-18" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0002" x="400" y="0" width="204" height="282" frameX="-11" frameY="-17" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0003" x="400" y="0" width="204" height="282" frameX="-11" frameY="-17" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0004" x="200" y="0" width="200" height="286" frameX="-13" frameY="-13" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0005" x="200" y="0" width="200" height="286" frameX="-13" frameY="-13" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0006" x="0" y="0" width="200" height="287" frameX="-13" frameY="-12" frameWidth="224" frameHeight="304" />
+<SubTexture name="backPoffy idle0007" x="0" y="0" width="200" height="287" frameX="-13" frameY="-12" frameWidth="224" frameHeight="304" />
+</TextureAtlas>

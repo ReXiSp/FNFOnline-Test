@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-180,
+		-120
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Photo p0p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p0p",
+			"anim": "0",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p1p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p1p",
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p2p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p2p",
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p3p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p3p",
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p4p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p4p",
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p5p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p5p",
+			"anim": "5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p6p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p6p",
+			"anim": "6",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Photo p7p",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Photo p7p",
+			"anim": "7",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Photo"
+}

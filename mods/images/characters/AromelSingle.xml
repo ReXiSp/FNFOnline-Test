@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AromelSingle.png">
+<SubTexture name="AromelSingle idle0000" x="0" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0001" x="0" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0002" x="852" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0003" x="852" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0004" x="1704" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0005" x="1704" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0006" x="2556" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0007" x="2556" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0008" x="0" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle idle0009" x="0" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0000" x="852" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0001" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0002" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0003" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0004" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0005" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0006" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0007" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0008" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0009" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle left0010" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0000" x="2556" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0001" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0002" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0003" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0004" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0005" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0006" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0007" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0008" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0009" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0010" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle down0011" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0000" x="852" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0001" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0002" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0003" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0004" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0005" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0006" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0007" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0008" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0009" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0010" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle up0011" x="1704" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0000" x="2556" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0001" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0002" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0003" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0004" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0005" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0006" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0007" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0008" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0009" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0010" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle right0011" x="0" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0000" x="852" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0001" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0002" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0003" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0004" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0005" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0006" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0007" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0008" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0009" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0010" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt left0011" x="1704" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0000" x="2556" y="2685" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0001" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0002" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0003" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0004" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0005" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0006" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0007" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0008" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0009" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt down0010" x="0" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0000" x="852" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0001" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0002" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0003" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0004" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0005" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0006" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0007" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0008" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0009" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0010" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt up0011" x="1704" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0000" x="2556" y="3580" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0001" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0002" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0003" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0004" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0005" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0006" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0007" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0008" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0009" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0010" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0011" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+<SubTexture name="AromelSingle alt right0012" x="0" y="4475" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+</TextureAtlas>

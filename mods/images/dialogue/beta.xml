@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beta.png">
+  <SubTexture name="beta_dialogue normal0000" x="0" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue kime0000" x="852" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue yeah0000" x="1704" y="0" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue memesunglasses0000" x="0" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue smile0000" x="852" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue happy0000" x="1704" y="895" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue eyecatch0000" x="0" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue ball0000" x="852" y="1790" width="852" height="895" frameX="0" frameY="0" frameWidth="852" frameHeight="895" />
+  <SubTexture name="beta_dialogue mimejr0000" x="1704" y="1790" width="432" height="475" frameX="0" frameY="0" frameWidth="432" frameHeight="475" />
+</TextureAtlas>

@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "This is a new sensation! It's so much fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop beep(Really? That's good.)"
+		},
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "Um..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop?"
+		},
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "I'm still tempted to do it, too. Oh, and I'll use the other microphone."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okey."
+		},
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "Well then, let the second round begin!"
+		},
+		{
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "Good luck!"
+		}
+	]
+}

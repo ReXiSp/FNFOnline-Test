@@ -1,0 +1,111 @@
+{
+	"dialogue": [
+    {
+      "expression": "0",
+      "text": "Well, that was a fun rap battle!",
+      "boxState": "normal",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+		{
+			"expression": "excited",
+			"text": "beep bop!(Let's do it again!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+    {
+      "expression": "8",
+      "text": "Mimine!",
+      "boxState": "normal",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+    {
+      "expression": "6",
+      "text": "Aah! It's Mime Jr.!",
+      "boxState": "normal",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+    {
+      "expression": "8",
+      "text": "Mimi~",
+      "boxState": "normal",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+    {
+      "expression": "5",
+      "text": "Oh man, Mime Jr. is so cute!",
+      "boxState": "normal",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+    {
+      "expression": "9",
+      "text": "... Why is there a Pokemon?",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+    {
+      "expression": "1",
+      "text": "I don't know...",
+      "boxState": "normal",
+      "sound": "shian",
+      "portrait": "shian",
+      "speed": 0.05
+    },
+		{
+			"expression": "8",
+			"text": "Mineee!",
+			"boxState": "normal",
+			"portrait": "beta",
+			"speed": 0.05
+		},
+    {
+      "expression": "7",
+      "text": "Ah! Hold on!",
+      "boxState": "angry",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.04
+    },
+    {
+      "expression": "9",
+      "text": "Is this the world of Pokemon???",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+    {
+      "expression": "3",
+      "text": "... The Pokémon Center that wasn't there before is now standing... Scary.",
+      "boxState": "normal",
+      "sound": "shian",
+      "portrait": "shian",
+      "speed": 0.05
+    },
+    {
+      "expression": "8",
+      "text": "So this is what the Betas meant when they said anything was possible... Give me a break.",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "(After this, the world returned to normal.)",
+			"boxState": "normal",
+			"portrait": "nocharacter",
+			"speed": 0.05
+		}
+	]
+}

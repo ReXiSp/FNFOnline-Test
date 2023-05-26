@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="silfa_dialogue.png">
+<SubTexture name="silfa_dialogue normal0000" x="0" y="0" width="450" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue smile0000" x="450" y="0" width="450" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue happy0000" x="900" y="0" width="450" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue nomicsmile0000" x="0" y="654" width="450" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue shock0000" x="450" y="654" width="333" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue angry0000" x="783" y="654" width="333" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue nomicnormal0000" x="1350" y="0" width="333" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue nomichappy0000" x="1350" y="654" width="333" height="654" frameX="-240" frameY="-237" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue nomicangry0000" x="0" y="1308" width="330" height="653" frameX="-243" frameY="-238" frameWidth="900" frameHeight="950" />
+<SubTexture name="silfa_dialogue sad0000" x="1683" y="0" width="316" height="654" frameX="-257" frameY="-237" frameWidth="900" frameHeight="950" />
+</TextureAtlas>

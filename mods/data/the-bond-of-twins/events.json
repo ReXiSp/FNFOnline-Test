@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "jp",
+		"player1": "bf",
+		"player2": "jpsingle",
+		"player3": null,
+		"events": [
+			[
+				52225.6097560976,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdouble"
+					]
+				]
+			],
+			[
+				62926.8292682927,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpsingle"
+					]
+				]
+			],
+			[
+				71707.3170731707,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdouble"
+					]
+				]
+			],
+			[
+				76097.5609756097,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpsingle"
+					]
+				]
+			],
+			[
+				99512.1951219511,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdouble"
+					]
+				]
+			],
+			[
+				101707.317073171,
+				[
+					[
+						"Play Animation",
+						"animation",
+						"Dad"
+					]
+				]
+			],
+			[
+				112682.926829268,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpsingle"
+					]
+				]
+			],
+			[
+				121463.414634146,
+				[
+					[
+						"Change Character",
+						"1",
+						"jpdouble"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 164,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "The-Bond-of-Twins"
+	}
+}

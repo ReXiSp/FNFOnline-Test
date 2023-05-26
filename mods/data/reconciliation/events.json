@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "meltical3",
+		"player1": "bf",
+		"player2": "aromelsingle",
+		"player3": null,
+		"events": [
+			[
+				88320,
+				[
+					[
+						"Change Character",
+						"1",
+						"aromeldouble"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Play Animation",
+						"Ara",
+						"0"
+					]
+				]
+			],
+			[
+				89040,
+				[
+					[
+						"Play Animation",
+						"Ara",
+						"0"
+					]
+				]
+			],
+			[
+				89760,
+				[
+					[
+						"Play Animation",
+						"Oya",
+						"0"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Play Animation",
+						"Oya",
+						"0"
+					]
+				]
+			],
+			[
+				90240,
+				[
+					[
+						"Change Character",
+						"1",
+						"aromelsingle"
+					]
+				]
+			],
+			[
+				126660,
+				[
+					[
+						"Change Character",
+						"1",
+						"aromeldouble"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Change Character",
+						"1",
+						"aromelsingle"
+					]
+				]
+			],
+			[
+				130560,
+				[
+					[
+						"Change Character",
+						"1",
+						"aromeldouble"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "reconciliation"
+	}
+}

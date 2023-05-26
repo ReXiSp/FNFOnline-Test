@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-230,
+		-190
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "0",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue normal",
+			"loop_name": "beta_dialogue normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue kime",
+			"loop_name": "beta_dialogue kime"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue yeah",
+			"loop_name": "beta_dialogue yeah"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue memesunglasses",
+			"loop_name": "beta_dialogue memesunglasses"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue smile",
+			"loop_name": "beta_dialogue smile"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "5",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue happy",
+			"loop_name": "beta_dialogue happy"
+		},
+    {
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "anim": "6",
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "idle_name": "beta_dialogue eyecatch",
+      "loop_name": "beta_dialogue eyecatch"
+    },
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "7",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beta_dialogue ball",
+			"loop_name": "beta_dialogue ball"
+		},
+		{
+			"idle_offsets": [
+				-220,
+				-210
+			],
+			"anim": "8",
+			"loop_offsets": [
+				-220,
+				-210
+			],
+			"idle_name": "beta_dialogue mimejr",
+			"loop_name": "beta_dialogue mimejr"
+		}
+	],
+	"image": "beta"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "jp",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+  "songs": [
+    [
+      "Retaliation",
+      "nanase",
+      [
+        126,
+        156,
+        0
+      ]
+    ],
+    [
+      "Chaotic-animals",
+      "gfbeta",
+      [
+        247,
+        143,
+        210
+      ]
+    ],
+    [
+      "GOMADARE-SWAP",
+      "bf",
+      [
+        49,
+        176,
+        209
+      ]
+    ]
+  ],
+	"hideStoryMode": true,
+	"weekName": "Bonus",
+	"hiddenUntilUnlocked": true
+}

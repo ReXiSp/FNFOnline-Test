@@ -1,0 +1,86 @@
+{
+	"dialogue": [
+    {
+      "expression": "Glad",
+      "text": "Wow, you did it! That was so much fun!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+		{
+			"expression": "talk",
+			"text": "BF, how did you keep up?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep... bep skebop (I managed .... It was a little tough, but it was fun)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+    {
+      "expression": "Smile",
+      "text": "That was fun, why don't we do another song? I've got lots of songs!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+    {
+      "expression": "Angry",
+      "text": "It's not fair that you and BF sing in a row! You should change that!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "mel",
+      "portrait": "meltical"
+    },
+    {
+      "expression": "Hmm",
+      "text": "No way! Let me do at least one more song!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+		{
+			"expression": "confused",
+			"text": "bop beep...? (Um, ..... You two, .....?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I was thinking, how about the three of us singing together?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+    {
+      "expression": "Surprised",
+      "text": "Genius!!",
+      "boxState": "angry",
+      "speed": 0.05,
+      "sound": "aromel",
+      "portrait": "aromel"
+    },
+		{
+			"expression": "confused",
+			"text": "Hey BF, these guys....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

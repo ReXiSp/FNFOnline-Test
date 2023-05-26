@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meatlantern.png">
+<SubTexture name="meatlantern idle0000" x="0" y="0" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0001" x="0" y="0" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0002" x="0" y="126" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0003" x="0" y="126" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0004" x="368" y="0" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0005" x="368" y="0" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0006" x="368" y="126" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+<SubTexture name="meatlantern idle0007" x="368" y="126" width="368" height="126" frameX="0" frameY="0" frameWidth="368" frameHeight="126" />
+</TextureAtlas>

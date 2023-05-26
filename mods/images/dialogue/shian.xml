@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shian_dialogue.png">
+<SubTexture name="shian_dialogue normal0000" x="0" y="0" width="257" height="615" frameX="-315" frameY="-239" frameWidth="848" frameHeight="891" />
+<SubTexture name="shian_dialogue hmm0000" x="257" y="0" width="257" height="615" frameX="-315" frameY="-239" frameWidth="848" frameHeight="891" />
+<SubTexture name="shian_dialogue smile0000" x="514" y="0" width="257" height="615" frameX="-315" frameY="-239" frameWidth="848" frameHeight="891" />
+<SubTexture name="shian_dialogue huh0000" x="771" y="0" width="257" height="615" frameX="-315" frameY="-239" frameWidth="848" frameHeight="891" />
+<SubTexture name="shian_dialogue angry0000" x="1028" y="0" width="257" height="615" frameX="-315" frameY="-239" frameWidth="848" frameHeight="891" />
+</TextureAtlas>

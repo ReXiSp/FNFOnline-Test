@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nocharacter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skip this!"
+		}
+	]
+}

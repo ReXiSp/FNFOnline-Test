@@ -1,0 +1,56 @@
+{
+	"dialogue": [
+    {
+      "expression": "Smile",
+      "text": "I was just thinking, you're pretty good.",
+      "boxState": "normal",
+      "sound": "mel",
+      "speed": 0.05,
+      "portrait": "meltical"
+    },
+    {
+      "expression": "Smile",
+      "text": "You too, thanks for singing with me!",
+      "boxState": "normal",
+      "speed": 0.05,
+      "sound": "aroma",
+      "portrait": "aroma"
+    },
+		{
+			"expression": "talk",
+			"text": "beep bop skeep (I'm glad we could reconcile and sing together.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm really happy for you. It was fun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+    {
+      "expression": "Normal",
+      "text": "Well, we'll be leaving soon!",
+      "boxState": "normal",
+      "sound": "aromel",
+      "portrait": "aromel",
+      "speed": 0.05
+    },
+		{
+			"expression": "excited",
+			"text": "bep! (Bye!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Good bye!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		}
+	]
+}

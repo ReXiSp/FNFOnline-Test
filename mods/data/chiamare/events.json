@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "aromel",
+		"player1": "playablemeltical",
+		"player2": "cskyle",
+		"player3": null,
+		"events": [
+			[
+				47865.1685393258,
+				[
+					[
+						"Play Animation",
+						"change",
+						"0"
+					]
+				]
+			],
+			[
+				48202.2471910112,
+				[
+					[
+						"Change Character",
+						"1",
+						"cskyleb"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "plusvergf",
+		"bpm": 178,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "chiamare"
+	}
+}

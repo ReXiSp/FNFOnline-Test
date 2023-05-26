@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="singingmachine.png">
+<SubTexture name="singingmachine idle0000" x="930" y="0" width="479" height="433" frameX="0" frameY="-12" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0001" x="930" y="0" width="479" height="433" frameX="0" frameY="-12" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0002" x="0" y="445" width="469" height="439" frameX="-5" frameY="-6" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0003" x="0" y="445" width="469" height="439" frameX="-5" frameY="-6" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0004" x="465" y="0" width="465" height="443" frameX="-7" frameY="-2" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0005" x="465" y="0" width="465" height="443" frameX="-7" frameY="-2" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0006" x="0" y="0" width="465" height="445" frameX="-7" frameY="0" frameWidth="479" frameHeight="445" />
+<SubTexture name="singingmachine idle0007" x="0" y="0" width="465" height="445" frameX="-7" frameY="0" frameWidth="479" frameHeight="445" />
+</TextureAtlas>

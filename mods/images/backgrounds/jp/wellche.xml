@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wellche.png">
+<SubTexture name="wellche idle0000" x="0" y="0" width="654" height="454" frameX="0" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0001" x="0" y="0" width="654" height="454" frameX="0" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0002" x="654" y="0" width="650" height="454" frameX="-2" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0003" x="654" y="0" width="650" height="454" frameX="-2" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0004" x="0" y="454" width="646" height="454" frameX="-4" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0005" x="0" y="454" width="646" height="454" frameX="-4" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0006" x="646" y="454" width="644" height="454" frameX="-6" frameY="-116" frameWidth="654" frameHeight="586" />
+<SubTexture name="wellche idle0007" x="646" y="454" width="644" height="454" frameX="-6" frameY="-116" frameWidth="654" frameHeight="586" />
+</TextureAtlas>

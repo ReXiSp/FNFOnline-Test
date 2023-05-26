@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backBetasis.png">
+<SubTexture name="backBetasis idle0000" x="558" y="0" width="192" height="308" frameX="0" frameY="-6" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0001" x="558" y="0" width="192" height="308" frameX="0" frameY="-6" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0002" x="370" y="0" width="188" height="310" frameX="-3" frameY="-4" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0003" x="370" y="0" width="188" height="310" frameX="-3" frameY="-4" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0004" x="0" y="0" width="186" height="314" frameX="-5" frameY="0" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0005" x="0" y="0" width="186" height="314" frameX="-5" frameY="0" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0006" x="186" y="0" width="184" height="314" frameX="-5" frameY="0" frameWidth="192" frameHeight="314" />
+<SubTexture name="backBetasis idle0007" x="186" y="0" width="184" height="314" frameX="-5" frameY="0" frameWidth="192" frameHeight="314" />
+</TextureAtlas>

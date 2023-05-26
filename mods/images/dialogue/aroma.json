@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-170,
+		-100
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Aroma normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Aroma happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Aroma wink",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma wink",
+			"anim": "Wink",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Aroma smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma smile",
+			"anim": "Smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Aroma hmm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma hmm",
+			"anim": "Hmm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Aroma glad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Aroma glad",
+			"anim": "Glad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Aroma"
+}

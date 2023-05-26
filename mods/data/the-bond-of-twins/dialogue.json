@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "7",
+			"text": ".... That's pretty impressive you, how do you manage to be like that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap bop...(Even after being told that...)"
+		},
+		{
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "Good job, I got you a drink!"
+		},
+		{
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "Anyway, when you're done drinking, why don't you sing with us?"
+		},
+		{
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "Oh that's a good idea, let's try it then!"
+		}
+	]
+}

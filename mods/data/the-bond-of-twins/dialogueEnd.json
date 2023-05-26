@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "0",
+			"text": "Photo, why did you use your ability in the middle of the song? I was in the groove, too.",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "6",
+			"text": "Yeah, I used that one in a surprise kind of way.",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "talk",
+			"text": "bop skebop? beep bap!(Was that your ability? That's amazing!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "By the way, who were those two guys?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "6",
+			"text": "Relatives. Maybe if I get a chance, I can rap battle with you two!",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "0",
+			"text": "I'll talk to them beforehand. Maybe the two of you would be willing to take me on.",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!(Good!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ring* ring*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nocharacter"
+		},
+		{
+			"expression": "2",
+			"text": "Sorry, I have to take a call.",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "1",
+			"text": "From whom?",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "1",
+			"text": "Manager.",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "10",
+			"text": "Hello?",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "8",
+			"text": "...What?",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "9",
+			"text": "...Okay, I understand....",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "2",
+			"text": "Photo, I know it's short notice, but we have work to do. I'm sorry you two, but we have to hurry.",
+			"boxState": "normal",
+			"sound": "plus",
+			"speed": 0.05,
+			"portrait": "plus"
+		},
+		{
+			"expression": "3",
+			"text": "Sorry to leave you like this! If I get another chance!",
+			"boxState": "normal",
+			"sound": "photo",
+			"speed": 0.05,
+			"portrait": "photo"
+		},
+		{
+			"expression": "talk",
+			"text": "...beep(...gone.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's hope we can meet again.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

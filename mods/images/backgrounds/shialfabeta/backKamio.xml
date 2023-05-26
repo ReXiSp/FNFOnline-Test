@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backKamio.png">
+<SubTexture name="backKamio idle0000" x="0" y="0" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0001" x="0" y="0" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0002" x="166" y="0" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0003" x="166" y="0" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0004" x="0" y="349" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0005" x="0" y="349" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+<SubTexture name="backKamio idle0006" x="166" y="349" width="166" height="349" frameX="0" frameY="0" frameWidth="166" frameHeight="349" />
+</TextureAtlas>
