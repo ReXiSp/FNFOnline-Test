@@ -1,15 +1,7 @@
-mods/data/cosmos-sign/cosmos-sign-hard.json
-mods/data/cosmos-sign/cosmos-sign-insane.json
-mods/data/cosmos-sign/cosmos-sign.json
-mods/data/cosmos-sign/endcutscene.lua
-mods/data/cosmos-sign/events.json
-mods/data/cosmos-sign/log.lua
-mods/data/cosmos-sign/script.lua
-mods/data/cosmos-sign/singingCamMove.lua
-mods/stages/outside.json
-mods/stages/outside.lua
-mods/custom_notetypes/Bullet_Note.lua
-mods/custom_events/CameraFlash.lua
+mods/data/chicos-estoy-comienda-mortadela/chicos-estoy-comienda-mortadela.json
+mods/data/chicos-estoy-comienda-mortadela/videoSprite.lua
+mods/stages/void.json
+mods/stages/void.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/Different Songs.lua
@@ -21,9 +13,9 @@ mods/scripts/limemain.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
-mods/sounds/hankshoot.ogg
 mods/sounds/foo.ogg
 mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
 mods/sounds/asago_death.ogg
 mods/sounds/bruh.ogg
 mods/sounds/dbwarp.ogg
@@ -34,7 +26,5 @@ mods/sounds/sin_death.ogg
 mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/fonts/arial.ttf
-mods/songs/cosmos-sign/Voices.ogg
-mods/songs/cosmos-sign/voices.ogg
-mods/songs/cosmos-sign/Inst.ogg
-mods/songs/cosmos-sign/inst.ogg
+mods/songs/chicos-estoy-comienda-mortadela/Inst.ogg
+mods/songs/chicos-estoy-comienda-mortadela/inst.ogg

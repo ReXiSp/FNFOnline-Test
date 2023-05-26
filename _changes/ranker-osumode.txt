@@ -15,6 +15,7 @@ mods/custom_events/BlackOut.lua
 mods/custom_events/HUDbye.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

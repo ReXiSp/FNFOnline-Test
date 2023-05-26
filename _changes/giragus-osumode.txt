@@ -11,6 +11,7 @@ mods/stages/giragus.lua
 mods/custom_events/sabotage.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

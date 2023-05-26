@@ -1,6 +1,11 @@
-mods/data/testing/script.lua
-mods/data/testing/testing.json
+mods/data/chicos-estoy-comienda-mortadela/chicos-estoy-comienda-mortadela.json
+mods/data/chicos-estoy-comienda-mortadela/videoSprite.lua
+mods/characters/nobf.json
 mods/characters/gf.json
+mods/stages/void.json
+mods/stages/void.lua
+mods/images/characters/nobf.png
+mods/images/characters/nobf.xml
 mods/images/characters/gameoverlol.png
 mods/images/characters/gameoverlol.xml
 mods/scripts/cache.lua
@@ -46,3 +51,5 @@ mods/images/limegreen/noteSplashes.png
 mods/images/limegreen/noteSplashes.xml
 mods/fonts/arial.ttf
 mods/images/viewsong.png
+mods/songs/chicos-estoy-comienda-mortadela/Inst.ogg
+mods/songs/chicos-estoy-comienda-mortadela/inst.ogg

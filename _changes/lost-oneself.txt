@@ -9,16 +9,20 @@ mods/data/lost-oneself/script.lua
 mods/data/lost-oneself/singingCamMove.lua
 mods/characters/gf-lost.json
 mods/characters/giraffe-devil.json
+mods/characters/gf.json
 mods/stages/concert3.json
 mods/stages/concert3.lua
 mods/images/characters/backgf.png
 mods/images/characters/backgf.xml
 mods/images/characters/devilgiraffe.png
 mods/images/characters/devilgiraffe.xml
+mods/images/characters/gameoverlol.png
+mods/images/characters/gameoverlol.xml
 mods/custom_events/badapplelol.lua
 mods/custom_events/Toggle camZooming.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

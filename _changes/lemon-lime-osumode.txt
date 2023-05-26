@@ -1,13 +1,24 @@
+mods/data/lemon-lime/Beat go brr.lua
+mods/data/lemon-lime/Camera Work.lua
 mods/data/lemon-lime/effects.lua
 mods/data/lemon-lime/events.json
+mods/data/lemon-lime/lemon-lime-dlow.json
 mods/data/lemon-lime/lemon-lime-easy.json
 mods/data/lemon-lime/lemon-lime-hard.json
 mods/data/lemon-lime/lemon-lime.json
+mods/data/lemon-lime/Shaders Brr.lua
+mods/data/lemon-lime/Stage Effects.lua
+mods/stages/jadbg.json
+mods/stages/jadbg.lua
 mods/stages/limeo2.json
 mods/stages/limeo2.lua
+mods/custom_events/Flash Camera.lua
 mods/custom_events/Camera Flash.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Flash Camera 2.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

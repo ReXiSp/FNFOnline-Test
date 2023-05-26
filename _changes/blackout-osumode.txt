@@ -1,5 +1,17 @@
-mods/data/testing/script.lua
-mods/data/testing/testing.json
+mods/data/blackout/blackout-dlow.json
+mods/data/blackout/Camera Work.lua
+mods/data/blackout/Character List.lua
+mods/data/blackout/Extra Stuff.lua
+mods/data/blackout/Shaders Brr.lua
+mods/data/blackout/Stage Change.lua
+mods/stages/blackout.json
+mods/stages/blackout.lua
+mods/custom_notetypes/BW Note.lua
+mods/custom_notetypes/Zoom Note.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Flash Camera 2.lua
+mods/custom_events/AlarmFlash.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
 mods/scripts/Different Songs.lua
@@ -24,3 +36,7 @@ mods/sounds/sin_death.ogg
 mods/sounds/vine.ogg
 mods/fonts/vcr.ttf
 mods/fonts/arial.ttf
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
+mods/songs/blackout/Inst.ogg
+mods/songs/blackout/inst.ogg

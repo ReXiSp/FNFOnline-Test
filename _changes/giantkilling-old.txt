@@ -1,12 +1,16 @@
 mods/data/giantkilling-old/giantkilling-old-deadly.json
 mods/data/giantkilling-old/singingCamMove.lua
 mods/characters/shinohaji.json
+mods/characters/gf.json
 mods/stages/stream.json
 mods/stages/stream.lua
 mods/images/characters/shinohaji.png
 mods/images/characters/shinohaji.xml
+mods/images/characters/gameoverlol.png
+mods/images/characters/gameoverlol.xml
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

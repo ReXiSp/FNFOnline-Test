@@ -1,0 +1,97 @@
+mods/data/blackout/blackout-dlow.json
+mods/data/blackout/Camera Work.lua
+mods/data/blackout/Character List.lua
+mods/data/blackout/Extra Stuff.lua
+mods/data/blackout/Shaders Brr.lua
+mods/data/blackout/Stage Change.lua
+mods/characters/bfblackout.json
+mods/characters/gray.json
+mods/characters/gumpy.json
+mods/stages/blackout.json
+mods/stages/blackout.lua
+mods/images/characters/bfblackout.png
+mods/images/characters/bfblackout.xml
+mods/images/characters/graynew.png
+mods/images/characters/graynew.xml
+mods/images/characters/gumpy.png
+mods/images/characters/gumpy.xml
+mods/characters/gray-bw.json
+mods/images/characters/gray-bw.png
+mods/images/characters/gray-bw.xml
+mods/characters/bf-bw.json
+mods/images/characters/BOYFRIEND-BW.png
+mods/images/characters/BOYFRIEND-BW.xml
+mods/characters/gumpy-bw.json
+mods/images/characters/gumpy-bw.png
+mods/images/characters/gumpy-bw.xml
+mods/custom_notetypes/BW Note.lua
+mods/custom_notetypes/Zoom Note.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Flash Camera 2.lua
+mods/custom_events/AlarmFlash.lua
+mods/scripts/cache.lua
+mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
+mods/scripts/DoubleGhostNote.lua
+mods/scripts/giraffehud.lua
+mods/scripts/hudmorelikepsych.lua
+mods/scripts/JudgementCounter.lua
+mods/scripts/limemain.lua
+mods/scripts/songcredit.lua
+mods/scripts/songInfo.lua
+mods/scripts/sussy_ui.lua
+mods/images/blackoutassets/main.png
+mods/images/blackoutassets/doors.png
+mods/images/blackoutassets/dead people 1v.png
+mods/images/blackoutassets/dead person.png
+mods/images/blackoutassets/crown.png
+mods/images/blackoutassets/dead people 2.png
+mods/images/blackoutassets/front shadows.png
+mods/images/blackoutassets/overlay.png
+mods/images/blackoutassets/main-bw.png
+mods/images/blackoutassets/overlay-bw.png
+mods/images/blackoutassets/dead people 1v-bw.png
+mods/images/blackoutassets/cinema.png
+mods/images/blackoutassets/lightblackout.png
+mods/images/blackoutassets/darkblackout.png
+mods/images/blackoutassets/vignette.png
+mods/images/NOTE_assets_bw.png
+mods/images/noteSplashesBW.png
+mods/images/NOTE_assets_bw.xml
+mods/sounds/foo.ogg
+mods/sounds/punch.ogg
+mods/sounds/hankshoot.ogg
+mods/sounds/asago_death.ogg
+mods/sounds/bruh.ogg
+mods/sounds/dbwarp.ogg
+mods/sounds/hitmarkers.ogg
+mods/sounds/sin_blaster.ogg
+mods/sounds/sin_damage.ogg
+mods/sounds/sin_death.ogg
+mods/sounds/vine.ogg
+mods/fonts/vcr.ttf
+mods/images/icons/icon-ahogo.png
+mods/images/icons/icon-aoken.png
+mods/images/icons/icon-lime.png
+mods/images/icons/icon-shinohaji.png
+mods/images/icons/icon-sin.png
+mods/images/icons/icon-burakku.png
+mods/images/icons/icon-cyan.png
+mods/images/icons/icon-devilg.png
+mods/images/icons/icon-gfangry.png
+mods/images/icons/icon-giraffe.png
+mods/images/icons/icon-moyashiro.png
+mods/images/icons/icon-girufy.png
+mods/images/icons/icon-radio.png
+mods/images/icons/icon-bf.png
+mods/images/icons/icon-pico.png
+mods/images/icons/icon-redmungus.png
+mods/images/limegreen/noteSplashes.png
+mods/images/limegreen/noteSplashes.xml
+mods/fonts/arial.ttf
+mods/images/viewsong.png
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
+mods/songs/blackout/Inst.ogg
+mods/songs/blackout/inst.ogg

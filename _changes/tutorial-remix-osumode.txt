@@ -10,6 +10,7 @@ mods/stages/concert.lua
 mods/custom_events/CameraFlash.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

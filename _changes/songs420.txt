@@ -1,8 +1,11 @@
 mods/weeks/b.json
 mods/weeks/c.json
+mods/weeks/d.json
 mods/weeks/g.json
 mods/weeks/i.json
 mods/weeks/l.json
+mods/weeks/m.json
 mods/weeks/r.json
 mods/weeks/s.json
 mods/weeks/t.json
+mods/weeks/y.json

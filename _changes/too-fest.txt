@@ -6,16 +6,20 @@ mods/data/too-fest/ssdnjsandwjdaksadwaas.lua
 mods/data/too-fest/too-fest-norest.json
 mods/characters/bf-what.json
 mods/characters/jirahyu.json
+mods/characters/gf.json
 mods/stages/jiraStage.json
 mods/stages/jiraStage.lua
 mods/images/characters/BOYFRIENDDD.png
 mods/images/characters/BOYFRIENDDD.xml
 mods/images/characters/girufy.png
 mods/images/characters/girufy.xml
+mods/images/characters/gameoverlol.png
+mods/images/characters/gameoverlol.xml
 mods/custom_events/NoteSpin.lua
 mods/custom_events/LyricsJPText.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua

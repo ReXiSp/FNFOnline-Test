@@ -9,13 +9,17 @@ mods/data/tutorial-remix/tutorial-remix-hard.json
 mods/data/tutorial-remix/tutorial-remix-insane.json
 mods/data/tutorial-remix/tutorial-remix.json
 mods/characters/no-gf.json
+mods/characters/gf.json
 mods/stages/concert.json
 mods/stages/concert.lua
 mods/images/characters/no-gf.png
 mods/images/characters/no-gf.xml
+mods/images/characters/gameoverlol.png
+mods/images/characters/gameoverlol.xml
 mods/custom_events/CameraFlash.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
+mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua
