@@ -4,7 +4,8 @@ function onCreate()
     return
   end
 
-  setProperty('fscoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
+  -- setProperty('fscoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
+  setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
 end
 
 function onCreatePost()
@@ -19,9 +20,11 @@ function onCreatePost()
     setProperty('timeTxt.x', getProperty('timeBar.x') +10)
     setProperty('timeTxt.y', getProperty('timeBar.y') -3)
 
-    setProperty('fscoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
+    -- setProperty('fscoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
+    setProperty('scoreTxt.text', 'Score: 0 | Combo Breaks: 0 | Accuracy: ?')
 
-    setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
+    -- setTextColor("fscoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
+    setTextColor("scoreTxt", rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")))
 end
 
 function onUpdatePost()

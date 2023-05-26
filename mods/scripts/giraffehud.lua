@@ -50,10 +50,11 @@ function table.contains(table, element)
 function onCreatePost()
     isGiraffeSong = table.contains(giraffeSongs, songName)
     if isGiraffeSong then
+        setTextSize("scoreTxt", 18)
         setProperty("scoreTxt.alpha", 0.9)
-        setProperty("fscoreTxt.alpha", 0.9)
+        -- setProperty("fscoreTxt.alpha", 0.9)
         setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
-        setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+        -- setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
     end
 end
 
@@ -68,7 +69,7 @@ function onUpdatePost(elapsed)
             scaleObject("iconP2", mult, 1)
             -- updateHitbox("iconP2")
             
-            setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
+            -- setTextString("fscoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
         end 
         setTextString("scoreTxt", "Score: "..score.." - Misses: "..misses.." - Accuracy: "..((ratingName ~= "?" and ratingName ~= "") and math.floorDecimal(getProperty("ratingPercent") * 100, 2).."% ["..ratingFC.."]" or ""))
     else

@@ -46,21 +46,25 @@ function onCreatePost()
     if not getPropertyFromClass("ClientPrefs", "osuMode") then
         makeLuaSprite("iconP1", "icons/icon-face", 614, getProperty("healthBar.y") - 75)
         addLuaSprite("iconP1", true)
+        -- setObjectOrder("iconP1", 0)
         setObjectCamera("iconP1", "hud")
         setProperty("iconP1.flipX", true)
         setScrollFactor("iconP1", 0, 0)
 
         makeLuaSprite("iconP2", "icons/icon-face", 513, getProperty("healthBar.y") - 75)
         addLuaSprite("iconP2", true)
+        -- setObjectOrder("iconP2", 14s)
         setObjectCamera("iconP2", "hud")
         setScrollFactor("iconP2", 0, 0)
         changeIcon(getProperty("boyfriend.healthIcon"), getProperty("dad.healthIcon"))
 
-        setProperty("scoreTxt.visible", false)
-        local size = getProperty("scoreTxt.size")
+        setObjectOrder("scoreTxt", 100)
+
+        -- setProperty("scoreTxt.visible", false)
+        -- local size = getProperty("scoreTxt.size")
         -- local color = getProperty("scoreTxt.color")
-        local alpha = getProperty("scoreTxt.alpha")
-        makeLuaText("fscoreTxt", getTextString("scoreTxt"), screenWidth, 0, getProperty("healthBar.y") + 32)
+        -- local alpha = getProperty("scoreTxt.alpha")
+        --[[makeLuaText("fscoreTxt", getTextString("scoreTxt"), screenWidth, 0, getProperty("healthBar.y") + 32)
         addLuaText("fscoreTxt", true)
         setTextSize("fscoreTxt", size)
         -- setTextColor("fscoreTxt", color)
@@ -68,7 +72,7 @@ function onCreatePost()
         setTextBorder("fscoreTxt", 1.25, "000000")
         setProperty("fscoreTxt.borderSize", 1.25)
         setProperty("fscoreTxt.alpha", alpha)
-        setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))
+        setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))]]
 
         setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
     end
@@ -161,7 +165,7 @@ function onUpdatePost(elapsed)
     setProperty("iconP2.offset.x", iconP2Offsets[1])
     setProperty("iconP2.offset.y", iconP2Offsets[2])
 
-    local size = getProperty("scoreTxt.size")
+    --[[local size = getProperty("scoreTxt.size")
     -- local color = getProperty("scoreTxt.color")
     local alpha = getProperty("scoreTxt.alpha")
     addLuaText("fscoreTxt", true)
@@ -176,7 +180,7 @@ function onUpdatePost(elapsed)
     setProperty("fscoreTxt.alpha", alpha)
     setProperty("fscoreTxt.scale.x", getProperty("scoreTxt.scale.x"))
     setProperty("fscoreTxt.scale.y", getProperty("scoreTxt.scale.y"))
-    setProperty("fscoreTxt.alpha", getProperty("scoreTxt.alpha"))
+    setProperty("fscoreTxt.alpha", getProperty("scoreTxt.alpha"))]]
 
     if not getPropertyFromClass("ClientPrefs", "osuMode") then
         setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
