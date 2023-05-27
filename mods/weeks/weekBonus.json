@@ -9,7 +9,7 @@
 		253
 	],
 	"weekBefore": "jp",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
@@ -44,7 +44,7 @@
       ]
     ]
   ],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekName": "Bonus",
-	"hiddenUntilUnlocked": true
+	"hiddenUntilUnlocked": false
 }

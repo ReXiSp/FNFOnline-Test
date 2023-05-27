@@ -3,16 +3,21 @@ mods/data/test/test-hard.json
 mods/data/test/test-insane.json
 mods/data/test/test.json
 mods/scripts/cache.lua
+mods/scripts/Cameratool.lua
 mods/scripts/debuglua.lua
 mods/scripts/Different Songs.lua
 mods/scripts/DoubleGhostNote.lua
+mods/scripts/GameoverCharaChange.lua
 mods/scripts/giraffehud.lua
 mods/scripts/hudmorelikepsych.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
+mods/scripts/NoteSkinChange.lua
+mods/scripts/ShowSongName.lua
 mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
+mods/scripts/ZoomCount.lua
 mods/sounds/foo.ogg
 mods/sounds/punch.ogg
 mods/sounds/hankshoot.ogg
