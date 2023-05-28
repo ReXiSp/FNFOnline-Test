@@ -13,6 +13,7 @@ function onSongStart()
 end
 
 
+--[[
 function onCountdownTick(counter)
 	if songName == 'Tutorial' then
 		
@@ -34,4 +35,4 @@ function onCountdownTick(counter)
 		end
 	end
 	
-end
+end]]

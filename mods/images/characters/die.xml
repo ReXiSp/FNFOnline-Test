@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="die.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="die0000" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0001" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0002" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0003" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0004" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0005" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0006" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0007" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0008" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0009" x="1" y="1" width="742" height="736"/>
+	<SubTexture name="die0010" x="744" y="1" width="742" height="736"/>
+	<SubTexture name="die0011" x="744" y="1" width="742" height="736"/>
+	<SubTexture name="die0012" x="1487" y="1" width="742" height="736"/>
+	<SubTexture name="die0013" x="1487" y="1" width="742" height="736"/>
+	<SubTexture name="die0014" x="2230" y="1" width="742" height="736"/>
+	<SubTexture name="die0015" x="2230" y="1" width="742" height="736"/>
+	<SubTexture name="die0016" x="2973" y="1" width="742" height="736"/>
+	<SubTexture name="die0017" x="2973" y="1" width="742" height="736"/>
+	<SubTexture name="die0018" x="1" y="738" width="742" height="736"/>
+	<SubTexture name="die0019" x="1" y="738" width="742" height="736"/>
+	<SubTexture name="die0020" x="744" y="738" width="742" height="736"/>
+	<SubTexture name="die0021" x="744" y="738" width="742" height="736"/>
+	<SubTexture name="die0022" x="744" y="738" width="742" height="736"/>
+	<SubTexture name="die0023" x="744" y="738" width="742" height="736"/>
+	<SubTexture name="die0024" x="1487" y="738" width="742" height="736"/>
+	<SubTexture name="die0025" x="1487" y="738" width="742" height="736"/>
+	<SubTexture name="die0026" x="2230" y="738" width="742" height="736"/>
+	<SubTexture name="die0027" x="2230" y="738" width="742" height="736"/>
+	<SubTexture name="die0028" x="2973" y="738" width="742" height="736"/>
+	<SubTexture name="die0029" x="2973" y="738" width="742" height="736"/>
+	<SubTexture name="die0030" x="1" y="1475" width="742" height="736"/>
+	<SubTexture name="die0031" x="1" y="1475" width="742" height="736"/>
+	<SubTexture name="die0032" x="744" y="1475" width="742" height="736"/>
+	<SubTexture name="die0033" x="744" y="1475" width="742" height="736"/>
+	<SubTexture name="die0034" x="744" y="1475" width="742" height="736"/>
+	<SubTexture name="die0035" x="744" y="1475" width="742" height="736"/>
+	<SubTexture name="die0036" x="744" y="1475" width="742" height="736"/>
+	<SubTexture name="die0037" x="744" y="1475" width="742" height="736"/>
+</TextureAtlas>

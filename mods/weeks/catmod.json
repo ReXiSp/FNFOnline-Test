@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Sayin That Shit",
+			"catcons",
+			[
+				229,
+				193,
+				43
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "kitty",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "look at the cute kitty owo",
+	"weekName": "lookatyou",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
