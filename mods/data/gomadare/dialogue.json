@@ -1,0 +1,64 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "You're on a roll today, BF!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "beeeeeep(It's always the same!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+    {
+      "expression": "2",
+      "text": "HEYYYYYYY!! SILFA! SHIAN!",
+      "boxState": "angry",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.035
+    },
+		{
+			"expression": "talk",
+			"text": "Oh? Do I know you?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+    {
+      "expression": "4",
+      "text": "Oh, Beta.",
+      "boxState": "normal",
+      "sound": "silfa",
+      "portrait": "silfa",
+      "speed": 0.05
+    },
+    {
+      "expression": "5",
+      "text": "Oh, you're having a rap battle by any chance? I'm in! I want to do it!",
+      "boxState": "normal",
+      "sound": "beta",
+      "portrait": "beta",
+      "speed": 0.05
+    },
+		{
+			"expression": "talk",
+			"text": "boop be-(It's oka-)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+    {
+      "expression": "3",
+      "text": "IT'S A PARTY NIGHT!!",
+      "boxState": "angry",
+      "sound": "beta",
+      "speed": 0.03,
+      "portrait": "beta"
+    }
+	]
+}
