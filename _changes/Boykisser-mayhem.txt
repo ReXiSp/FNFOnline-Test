@@ -1,6 +1,6 @@
 mods/data/boykisser-mayhem/boykisser-mayhem-hard.json
-mods/characters/boykisser test.json
-mods/characters/boykisser op.json
+mods/characters/boykisser-test.json
+mods/characters/boykisser-op.json
 mods/characters/gf.json
 mods/stages/boykisser.json
 mods/stages/boykisser.lua

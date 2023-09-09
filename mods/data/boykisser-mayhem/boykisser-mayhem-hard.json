@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "boykisser test",
+		"player1": "boykisser-test",
 		"events": [
 			[
 				11636.3636363636,
@@ -3896,9 +3896,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "boykisser op",
+		"player2": "boykisser-op",
 		"player3": null,
-		"song": "boykisser mayhem",
+		"song": "boykisser-mayhem",
 		"stage": "boykisser",
 		"needsVoices": true,
 		"validScore": true,
