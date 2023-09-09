@@ -60,6 +60,11 @@ mods/images/icons/icon-radio.png
 mods/images/icons/icon-bf.png
 mods/images/icons/icon-pico.png
 mods/images/icons/icon-redmungus.png
+mods/images/icons/icon-ponyken.png
+mods/images/icons/icon-umago.png
+mods/images/icons/icon-warchief.png
+mods/images/icons/icon-boykisser.png
+mods/images/icons/icon-boykisserbf.png
 mods/images/limegreen/noteSplashes.png
 mods/images/limegreen/noteSplashes.xml
 mods/images/noteskins/meltical_notes.png

@@ -1,5 +1,5 @@
 local def = 1
-function onCreatePost()
+function onStartCountdown()
     def = getProperty('defaultCamZoom')
 end
 

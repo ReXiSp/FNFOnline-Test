@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-86
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-86
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-71,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bye",
+			"indices": [],
+			"name": "bye"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/warchi",
+	"position": [
+		-70,
+		300
+	],
+	"healthicon": "warchief",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		15,
+		175
+	],
+	"camera_position": [
+		-160,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

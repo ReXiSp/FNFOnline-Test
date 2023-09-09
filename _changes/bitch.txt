@@ -1,5 +1,6 @@
 mods/data/bitch/bitch-hard.json
 mods/data/bitch/bitch.json
+mods/data/bitch/camera.lua
 mods/data/bitch/events.json
 mods/characters/bf-mp4-oh.json
 mods/images/characters/mp4_bf_oh.png
@@ -32,12 +33,12 @@ mods/scripts/songcredit.lua
 mods/scripts/songInfo.lua
 mods/scripts/sussy_ui.lua
 mods/scripts/ZoomCount.lua
-mods/images/bg.png
-mods/images/ded.png
-mods/images/bg2.png
-mods/images/vign.png
-mods/images/warch.png
-mods/images/warch.xml
+mods/images/bitchstage/bg.png
+mods/images/bitchstage/ded.png
+mods/images/bitchstage/bg2.png
+mods/images/bitchstage/vign.png
+mods/images/bitchstage/warch.png
+mods/images/bitchstage/warch.xml
 mods/sounds/foo.ogg
 mods/sounds/punch.ogg
 mods/sounds/hankshoot.ogg
@@ -66,6 +67,11 @@ mods/images/icons/icon-radio.png
 mods/images/icons/icon-bf.png
 mods/images/icons/icon-pico.png
 mods/images/icons/icon-redmungus.png
+mods/images/icons/icon-ponyken.png
+mods/images/icons/icon-umago.png
+mods/images/icons/icon-warchief.png
+mods/images/icons/icon-boykisser.png
+mods/images/icons/icon-boykisserbf.png
 mods/images/limegreen/noteSplashes.png
 mods/images/limegreen/noteSplashes.xml
 mods/images/noteskins/meltical_notes.png

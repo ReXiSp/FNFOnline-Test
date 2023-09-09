@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cross_pony_dialogue.png">
+<SubTexture name="talk0000" x="0" y="0" width="610" height="598" frameX="-32" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0001" x="0" y="0" width="610" height="598" frameX="-32" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0002" x="610" y="0" width="616" height="597" frameX="-27" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0003" x="610" y="0" width="616" height="597" frameX="-27" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0004" x="0" y="598" width="619" height="591" frameX="-26" frameY="-69" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0005" x="0" y="598" width="619" height="591" frameX="-26" frameY="-69" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0006" x="619" y="598" width="610" height="598" frameX="-32" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0007" x="619" y="598" width="610" height="598" frameX="-32" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0008" x="0" y="1196" width="615" height="597" frameX="-28" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0009" x="0" y="1196" width="615" height="597" frameX="-28" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0010" x="615" y="1196" width="619" height="591" frameX="-26" frameY="-69" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0011" x="615" y="1196" width="619" height="591" frameX="-26" frameY="-69" frameWidth="720" frameHeight="720" />
+
+<SubTexture name="idle0000" x="0" y="1793" width="578" height="591" frameX="-67" frameY="-69" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

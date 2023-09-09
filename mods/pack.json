@@ -1,7 +1,7 @@
 {
-	"name": "Leaked it myself",
-	"description": "2022/12/28 17:18",
+	"name": "D'lowing Performance Update",
+	"description": "A fanmade vs Impostor remix mod with banging remixes!",
 	"restart":false,
-	"runsGlobally": false,
-	"color": [37, 164, 43]
+	"runsGlobally": true,
+	"color": [170, 0, 255]
 }

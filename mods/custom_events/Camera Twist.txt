@@ -1,0 +1,2 @@
+value1: tweenX int
+value2: swing angle int

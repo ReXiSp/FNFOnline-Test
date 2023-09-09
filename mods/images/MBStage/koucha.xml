@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="koucha.png">
+<SubTexture name="idle0000" x="0" y="0" width="847" height="494" frameX="-74" frameY="-117" frameWidth="940" frameHeight="640" />
+<SubTexture name="idle0001" x="0" y="494" width="835" height="496" frameX="-79" frameY="-113" frameWidth="940" frameHeight="640" />
+<SubTexture name="idle0002" x="0" y="990" width="830" height="502" frameX="-81" frameY="-102" frameWidth="940" frameHeight="640" />
+<SubTexture name="idle0003" x="0" y="1492" width="830" height="504" frameX="-81" frameY="-98" frameWidth="940" frameHeight="640" />
+</TextureAtlas>

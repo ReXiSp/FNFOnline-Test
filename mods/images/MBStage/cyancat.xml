@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cyancat.png">
+<SubTexture name="idle0000" x="0" y="0" width="504" height="458" frameX="-76" frameY="-51" frameWidth="640" frameHeight="520" />
+<SubTexture name="idle0001" x="0" y="458" width="493" height="462" frameX="-81" frameY="-47" frameWidth="640" frameHeight="520" />
+<SubTexture name="idle0002" x="0" y="920" width="490" height="469" frameX="-82" frameY="-41" frameWidth="640" frameHeight="520" />
+<SubTexture name="idle0003" x="0" y="1389" width="490" height="472" frameX="-82" frameY="-38" frameWidth="640" frameHeight="520" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="asago_pony_dialogue.png">
+<SubTexture name="talk0000" x="0" y="0" width="521" height="609" frameX="-97" frameY="-60" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0001" x="0" y="0" width="521" height="609" frameX="-97" frameY="-60" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0002" x="0" y="609" width="524" height="608" frameX="-95" frameY="-61" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0003" x="0" y="609" width="524" height="608" frameX="-95" frameY="-61" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0004" x="0" y="1217" width="527" height="604" frameX="-93" frameY="-65" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0005" x="0" y="1217" width="527" height="604" frameX="-93" frameY="-65" frameWidth="720" frameHeight="720" />
+
+<SubTexture name="idle0000" x="0" y="1217" width="527" height="604" frameX="-93" frameY="-65" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

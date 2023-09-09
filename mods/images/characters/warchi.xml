@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="warchi.png">
+<SubTexture name="idle0000" x="0" y="0" width="215" height="281" frameX="-165" frameY="-84" frameWidth="562" frameHeight="464" />
+<SubTexture name="idle0001" x="0" y="0" width="215" height="281" frameX="-165" frameY="-84" frameWidth="562" frameHeight="464" />
+<SubTexture name="idle0002" x="0" y="0" width="215" height="281" frameX="-165" frameY="-84" frameWidth="562" frameHeight="464" />
+<SubTexture name="idle0003" x="215" y="0" width="214" height="285" frameX="-167" frameY="-82" frameWidth="562" frameHeight="464" />
+<SubTexture name="idle0004" x="215" y="0" width="214" height="285" frameX="-167" frameY="-82" frameWidth="562" frameHeight="464" />
+<SubTexture name="idle0005" x="215" y="0" width="214" height="285" frameX="-167" frameY="-82" frameWidth="562" frameHeight="464" />
+<SubTexture name="left0000" x="942" y="0" width="308" height="306" frameX="-30" frameY="-63" frameWidth="562" frameHeight="464" />
+<SubTexture name="left0001" x="942" y="0" width="308" height="306" frameX="-30" frameY="-63" frameWidth="562" frameHeight="464" />
+<SubTexture name="left0002" x="0" y="306" width="287" height="318" frameX="-58" frameY="-50" frameWidth="562" frameHeight="464" />
+<SubTexture name="left0003" x="0" y="306" width="287" height="318" frameX="-58" frameY="-50" frameWidth="562" frameHeight="464" />
+<SubTexture name="down0000" x="429" y="0" width="267" height="238" frameX="-136" frameY="-134" frameWidth="562" frameHeight="464" />
+<SubTexture name="down0001" x="429" y="0" width="267" height="238" frameX="-136" frameY="-134" frameWidth="562" frameHeight="464" />
+<SubTexture name="down0002" x="696" y="0" width="246" height="252" frameX="-146" frameY="-121" frameWidth="562" frameHeight="464" />
+<SubTexture name="down0003" x="696" y="0" width="246" height="252" frameX="-146" frameY="-121" frameWidth="562" frameHeight="464" />
+<SubTexture name="up0000" x="287" y="306" width="184" height="325" frameX="-192" frameY="-42" frameWidth="562" frameHeight="464" />
+<SubTexture name="up0001" x="287" y="306" width="184" height="325" frameX="-192" frameY="-42" frameWidth="562" frameHeight="464" />
+<SubTexture name="up0002" x="471" y="306" width="202" height="313" frameX="-175" frameY="-55" frameWidth="562" frameHeight="464" />
+<SubTexture name="up0003" x="471" y="306" width="202" height="313" frameX="-175" frameY="-55" frameWidth="562" frameHeight="464" />
+<SubTexture name="right0000" x="673" y="306" width="286" height="285" frameX="-189" frameY="-80" frameWidth="562" frameHeight="464" />
+<SubTexture name="right0001" x="673" y="306" width="286" height="285" frameX="-189" frameY="-80" frameWidth="562" frameHeight="464" />
+<SubTexture name="right0002" x="959" y="306" width="276" height="290" frameX="-186" frameY="-76" frameWidth="562" frameHeight="464" />
+<SubTexture name="right0003" x="959" y="306" width="276" height="290" frameX="-186" frameY="-76" frameWidth="562" frameHeight="464" />
+<SubTexture name="bye0000" x="0" y="631" width="215" height="281" frameX="-120" frameY="-70" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0001" x="215" y="631" width="245" height="292" frameX="-91" frameY="-71" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0002" x="460" y="631" width="223" height="277" frameX="-115" frameY="-75" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0003" x="683" y="631" width="229" height="282" frameX="-109" frameY="-81" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0004" x="912" y="631" width="237" height="261" frameX="-100" frameY="-90" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0005" x="0" y="923" width="245" height="235" frameX="-95" frameY="-107" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0006" x="245" y="923" width="216" height="186" frameX="-116" frameY="-135" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0007" x="461" y="923" width="171" height="141" frameX="-139" frameY="-167" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0008" x="632" y="923" width="136" height="119" frameX="-157" frameY="-169" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0009" x="768" y="923" width="85" height="99" frameX="-184" frameY="-185" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0010" x="0" y="1158" width="30" height="39" frameX="-212" frameY="-227" frameWidth="459" frameHeight="389" />
+<SubTexture name="bye0011" x="30" y="1158" width="5" height="5" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+</TextureAtlas>

@@ -1,0 +1,2 @@
+value1: curbeat % value1 hits
+value2: add zoom

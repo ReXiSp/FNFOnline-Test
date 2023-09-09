@@ -42,6 +42,11 @@ function onCreatePost()
     -- makeLuaSprite("icon", "icons/icon-bf")
     -- makeLuaSprite("icon", "icons/icon-pico")
     -- makeLuaSprite("icon", "icons/icon-redmungus")
+    -- makeLuaSprite("icon", "icons/icon-ponyken")
+    -- makeLuaSprite("icon", "icons/icon-umago")
+    -- makeLuaSprite("icon", "icons/icon-warchief")
+    -- makeLuaSprite("icon", "icons/icon-boykisser")
+    -- makeLuaSprite("icon", "icons/icon-boykisserbf")
     
     if not getPropertyFromClass("ClientPrefs", "osuMode") then
         makeLuaSprite("iconP1", "icons/icon-face", 614, getProperty("healthBar.y") - 75)

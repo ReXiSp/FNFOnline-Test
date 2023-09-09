@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ouka.png">
+<SubTexture name="idle0000" x="0" y="0" width="480" height="463" frameX="-170" frameY="-137" frameWidth="840" frameHeight="720" />
+<SubTexture name="idle0001" x="0" y="463" width="472" height="463" frameX="-174" frameY="-137" frameWidth="840" frameHeight="720" />
+<SubTexture name="idle0002" x="0" y="926" width="470" height="466" frameX="-175" frameY="-135" frameWidth="840" frameHeight="720" />
+<SubTexture name="idle0003" x="0" y="1392" width="468" height="469" frameX="-176" frameY="-132" frameWidth="840" frameHeight="720" />
+</TextureAtlas>

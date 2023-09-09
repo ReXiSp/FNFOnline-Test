@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="taa_silfa.png">
+<SubTexture name="idle0000" x="0" y="0" width="1008" height="715" frameX="-109" frameY="-90" frameWidth="1280" frameHeight="800" />
+<SubTexture name="idle0001" x="0" y="715" width="995" height="718" frameX="-116" frameY="-86" frameWidth="1280" frameHeight="800" />
+<SubTexture name="idle0002" x="0" y="1433" width="989" height="728" frameX="-119" frameY="-73" frameWidth="1280" frameHeight="800" />
+<SubTexture name="idle0003" x="0" y="2161" width="989" height="730" frameX="-119" frameY="-70" frameWidth="1280" frameHeight="800" />
+</TextureAtlas>

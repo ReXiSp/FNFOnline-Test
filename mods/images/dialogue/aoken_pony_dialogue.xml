@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aoken_pony_dialogue.png">
+<SubTexture name="asetalk0000" x="593" y="1193" width="592" height="601" frameX="-78" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="asetalk0001" x="593" y="1193" width="592" height="601" frameX="-78" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="asetalk0002" x="0" y="1193" width="593" height="598" frameX="-78" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="asetalk0003" x="0" y="1193" width="593" height="598" frameX="-78" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="asetalk0004" x="597" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="asetalk0005" x="597" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+
+<SubTexture name="talk0000" x="593" y="592" width="592" height="601" frameX="-78" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0001" x="593" y="592" width="592" height="601" frameX="-78" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0002" x="0" y="592" width="593" height="598" frameX="-78" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0003" x="0" y="592" width="593" height="598" frameX="-78" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0004" x="0" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="talk0005" x="0" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+
+<SubTexture name="aseidle0000" x="597" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+
+<SubTexture name="idle0000" x="0" y="0" width="597" height="592" frameX="-76" frameY="-85" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

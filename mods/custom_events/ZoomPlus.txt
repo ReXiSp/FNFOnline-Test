@@ -1,0 +1,3 @@
+value1:
+defaultCamZoom + value1.
+0 = back to default.
