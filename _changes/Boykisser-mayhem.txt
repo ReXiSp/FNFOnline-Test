@@ -1,7 +1,4 @@
-mods/data/boykisser-mayhem/boykisser-mayhem-easy.json
 mods/data/boykisser-mayhem/boykisser-mayhem-hard.json
-mods/data/boykisser-mayhem/boykisser-mayhem-normal.json
-mods/data/boykisser-mayhem/boykisser-mayhem.json
 mods/characters/boykisser test.json
 mods/characters/boykisser op.json
 mods/characters/gf.json
