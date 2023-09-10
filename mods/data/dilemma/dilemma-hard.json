@@ -1,7 +1,7 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "annieDT",
+		"player1": "anniedt",
 		"events": [
 			[
 				0,
@@ -234,7 +234,7 @@
 					[
 						"Change Character",
 						"bf",
-						"annieDTface"
+						"anniedtface"
 					]
 				]
 			],
@@ -264,7 +264,7 @@
 					[
 						"Change Character",
 						"bf",
-						"annieDT"
+						"anniedt"
 					]
 				]
 			],
@@ -424,7 +424,7 @@
 					[
 						"Change Character",
 						"bf",
-						"annieDTface"
+						"anniedtface"
 					]
 				]
 			],

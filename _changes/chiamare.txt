@@ -107,7 +107,7 @@ mods/images/icons/icon-JP.png
 mods/images/icons/icon-JP2.png
 mods/images/icons/icon-kyle.png
 mods/images/icons/icon-kyleb.png
-mods/images/icons/icon-LAnniedrowning.png
+mods/images/icons/icon-Lanniedrowning.png
 mods/images/icons/icon-lime.png
 mods/images/icons/icon-liquidannie.png
 mods/images/icons/icon-McDeebles.png

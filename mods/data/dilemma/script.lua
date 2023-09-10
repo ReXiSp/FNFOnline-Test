@@ -1,6 +1,6 @@
 function onCreate()
 	addCharacterToList('garDTface', 'dad');
-	addCharacterToList('annieDTface', 'bf');
+	addCharacterToList('anniedtface', 'bf');
 	addCharacterToList('DTDeath', 'bf');
 	setPropertyFromClass('GameOverSubstate', 'characterName', 'DTDeath'); --Character json file for the death animation
 	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'DilemmaDeath'); --put in mods/sounds/

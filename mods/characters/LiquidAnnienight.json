@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/MonAnnieNight_Assets",
+	"image": "characters/MonannieNight_Assets",
 	"position": [
 		150,
 		100
 	],
-	"healthicon": "LiquidAnnie",
+	"healthicon": "Liquidannie",
 	"flip_x": false,
 	"healthbar_colors": [
 		118,

@@ -35,7 +35,7 @@
     -- makeLuaSprite("icon", "icons/icon-JP2")
     -- makeLuaSprite("icon", "icons/icon-kyle")
     -- makeLuaSprite("icon", "icons/icon-kyleb")
-    -- makeLuaSprite("icon", "icons/icon-LAnniedrowning")
+    -- makeLuaSprite("icon", "icons/icon-Lanniedrowning")
     -- makeLuaSprite("icon", "icons/icon-lime")
     -- makeLuaSprite("icon", "icons/icon-liquidannie")
     -- makeLuaSprite("icon", "icons/icon-McDeebles")

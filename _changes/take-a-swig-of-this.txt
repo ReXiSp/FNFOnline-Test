@@ -3,14 +3,14 @@ mods/data/take-a-swig-of-this/take-a-swig-of-this-easy.json
 mods/data/take-a-swig-of-this/take-a-swig-of-this-hard.json
 mods/data/take-a-swig-of-this/take-a-swig-of-this.json
 mods/characters/bfnight.json
-mods/characters/LiquidAnnienight.json
+mods/characters/Liquidannienight.json
 mods/characters/gfnight.json
 mods/stages/DayBurnNight.json
 mods/stages/DayBurnNight.lua
 mods/images/characters/BOYFRIENDNIGHT.png
 mods/images/characters/BOYFRIENDNIGHT.xml
-mods/images/characters/MonAnnieNight_Assets.png
-mods/images/characters/MonAnnieNight_Assets.xml
+mods/images/characters/MonannieNight_Assets.png
+mods/images/characters/MonannieNight_Assets.xml
 mods/images/characters/GFNight_assets.png
 mods/images/characters/GFNight_assets.xml
 mods/scripts/0_modchartSupport.lua
@@ -83,7 +83,7 @@ mods/images/icons/icon-JP.png
 mods/images/icons/icon-JP2.png
 mods/images/icons/icon-kyle.png
 mods/images/icons/icon-kyleb.png
-mods/images/icons/icon-LAnniedrowning.png
+mods/images/icons/icon-Lanniedrowning.png
 mods/images/icons/icon-lime.png
 mods/images/icons/icon-liquidannie.png
 mods/images/icons/icon-McDeebles.png

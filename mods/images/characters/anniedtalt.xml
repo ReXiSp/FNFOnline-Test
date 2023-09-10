@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="annieDT.png">
+<TextureAtlas imagePath="anniedtalt.png">
 <SubTexture name="annie idle0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
 <SubTexture name="annie idle0001" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
 <SubTexture name="annie idle0002" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="MonAnnieNight_assets.png">
+<TextureAtlas imagePath="MonannieNight_assets.png">
 	<!-- Created with Adobe Animate version 20.0.0.17700 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Monster Right note0000" x="6592" y="1696" width="800" height="800" frameX="200" frameY="130" frameWidth="800" frameHeight="500"/>

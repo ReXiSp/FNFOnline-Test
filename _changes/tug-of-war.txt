@@ -2,12 +2,12 @@ mods/data/tug-of-war/SongIntro.lua
 mods/data/tug-of-war/tug-of-war-easy.json
 mods/data/tug-of-war/tug-of-war-hard.json
 mods/data/tug-of-war/tug-of-war.json
-mods/characters/Annie.json
+mods/characters/annie.json
 mods/characters/gf.json
 mods/stages/DayBurnNormal.json
 mods/stages/DayBurnNormal.lua
-mods/images/characters/Annie.png
-mods/images/characters/Annie.xml
+mods/images/characters/annie.png
+mods/images/characters/annie.xml
 mods/scripts/0_modchartSupport.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
@@ -78,7 +78,7 @@ mods/images/icons/icon-JP.png
 mods/images/icons/icon-JP2.png
 mods/images/icons/icon-kyle.png
 mods/images/icons/icon-kyleb.png
-mods/images/icons/icon-LAnniedrowning.png
+mods/images/icons/icon-Lanniedrowning.png
 mods/images/icons/icon-lime.png
 mods/images/icons/icon-liquidannie.png
 mods/images/icons/icon-McDeebles.png
