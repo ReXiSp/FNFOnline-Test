@@ -46,6 +46,10 @@ function onCreatePost()
 	addHaxeLibrary('FlxMath', 'flixel.math')
 
     runHaxeCode([[
+
+        var g:PlayState = FlxG.state;
+        game = g;
+
 		wiggg = new WiggleEffect();
 
         susCam = new FlxCamera();

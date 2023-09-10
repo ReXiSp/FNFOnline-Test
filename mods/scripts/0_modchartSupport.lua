@@ -19,6 +19,8 @@ function onCreatePost()
 
         //strumNoteTextures = ["NOTE_assets", "NOTE_assets", "NOTE_assets", "NOTE_assets", "NOTE_assets", "NOTE_assets", "NOTE_assets", "NOTE_assets"];
 
+        if (FunkinLua.hscript != null) FunkinLua.hscript.interp.variable.set('game', game);
+
         function getInstance()
         {
             return game.isDead ? GameOverSubstate.instance : game;
