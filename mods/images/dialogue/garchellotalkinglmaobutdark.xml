@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garchellotalkinglmao.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garcello_talk_bawling0000" x="0" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0001" x="0" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0002" x="296" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0003" x="296" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0004" x="592" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0005" x="592" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0006" x="888" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0007" x="888" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0008" x="1184" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0009" x="1184" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0010" x="888" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0011" x="888" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0012" x="1184" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_bawling0013" x="1184" y="0" width="296" height="655"/>
+	<SubTexture name="garcello_talk_normal0000" x="1480" y="0" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0001" x="1480" y="0" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0002" x="0" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0003" x="0" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0004" x="294" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0005" x="294" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0006" x="588" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_talk_normal0007" x="588" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0000" x="882" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0001" x="882" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0002" x="1176" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0003" x="1176" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0004" x="1470" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0005" x="1470" y="659" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0006" x="0" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0007" x="0" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0008" x="294" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0009" x="294" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0010" x="0" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0011" x="0" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0012" x="294" y="1318" width="294" height="659"/>
+	<SubTexture name="garcello_tallk_crying0013" x="294" y="1318" width="294" height="659"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sadcello_idle"
+		},
+		{
+			"offsets": [
+				26,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sadcello_left"
+		},
+		{
+			"offsets": [
+				6,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sadcello_down"
+		},
+		{
+			"offsets": [
+				-7,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sadcello_up"
+		},
+		{
+			"offsets": [
+				-27,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sadcello_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadgarcelloassets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "sadgar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		144
+	],
+	"camera_position": [
+		-40,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

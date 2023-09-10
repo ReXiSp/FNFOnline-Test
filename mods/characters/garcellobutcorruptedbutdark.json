@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "garcello_idle"
+		},
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "garcello_idle"
+		},
+		{
+			"offsets": [
+				66,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "garcello_left"
+		},
+		{
+			"offsets": [
+				66,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "garcello_left"
+		},
+		{
+			"offsets": [
+				41,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "garcello_down"
+		},
+		{
+			"offsets": [
+				41,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "garcello_down"
+		},
+		{
+			"offsets": [
+				15,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "garcello_up"
+		},
+		{
+			"offsets": [
+				15,
+				-16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "garcello_up"
+		},
+		{
+			"offsets": [
+				-12,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "garcello_right"
+		},
+		{
+			"offsets": [
+				-12,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "garcello_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garcellossmokinassbutdark",
+	"position": [
+		-20,
+		70
+	],
+	"healthicon": "darkgar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-40,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

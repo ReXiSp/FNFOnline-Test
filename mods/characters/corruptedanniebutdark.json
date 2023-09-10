@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "corruptannie_idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "corruptannie_idle"
+		},
+		{
+			"offsets": [
+				39,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corruptedannie_left"
+		},
+		{
+			"offsets": [
+				39,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "corruptedannie_left"
+		},
+		{
+			"offsets": [
+				-69,
+				-259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corruptedannie_down"
+		},
+		{
+			"offsets": [
+				-69,
+				-259
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "corruptedannie_down"
+		},
+		{
+			"offsets": [
+				-59,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corruptedannie_up"
+		},
+		{
+			"offsets": [
+				-59,
+				-139
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "corruptedannie_up"
+		},
+		{
+			"offsets": [
+				-72,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corruptedannie_right"
+		},
+		{
+			"offsets": [
+				-72,
+				-204
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "corruptedannie_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptedanniebutdark",
+	"position": [
+		-20,
+		70
+	],
+	"healthicon": "corruptanniebutdark",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-40,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

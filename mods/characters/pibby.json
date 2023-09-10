@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-850,
+				-370
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pibby idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-860,
+				-370
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "pibby scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyshade",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

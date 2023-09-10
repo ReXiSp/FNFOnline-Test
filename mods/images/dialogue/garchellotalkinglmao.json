@@ -1,0 +1,50 @@
+{
+	"position": [
+		10,
+		-10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "garchellotalkinglmao",
+	"animations": [
+		{
+			"idle_offsets": [
+				-192,
+				42
+			],
+			"loop_offsets": [
+				-192,
+				42
+			],
+			"anim": "talk",
+			"idle_name": "garcello_talk_normal0007",
+			"loop_name": "garcello_talk_normal"
+		},
+		{
+			"loop_offsets": [
+				-192,
+				42
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-192,
+				42
+			],
+			"loop_name": "garcello_tallk_crying",
+			"idle_name": "garcello_tallk_crying007"
+		},
+		{
+			"loop_offsets": [
+				-192,
+				42
+			],
+			"anim": "crying",
+			"idle_offsets": [
+				-192,
+				42
+			],
+			"loop_name": "garcello_talk_bawling",
+			"idle_name": "garcello_talk_bawling007"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		-10
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-192,
+				42
+			],
+			"idle_offsets": [
+				-192,
+				42
+			],
+			"loop_name": "garcello_talk_normal",
+			"idle_name": "garcello_talk_normal0007"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "BF CONFUSED LOOP"
+		},
+		{
+			"loop_name": "garcello_tallk_crying",
+			"idle_offsets": [
+				-192,
+				42
+			],
+			"idle_name": "garcello_tallk_crying0013",
+			"anim": "sad",
+			"loop_offsets": [
+				-192,
+				42
+			]
+		},
+		{
+			"loop_name": "garcello_talk_bawling",
+			"idle_offsets": [
+				-192,
+				39
+			],
+			"idle_name": "garcello_talk_bawling0013",
+			"anim": "crying",
+			"loop_offsets": [
+				-192,
+				39
+			]
+		}
+	],
+	"image": "garchellotalkinglmaobutdark"
+}

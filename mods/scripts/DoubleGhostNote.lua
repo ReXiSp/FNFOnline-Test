@@ -7,6 +7,11 @@ please credit if you gonna use this as a mod that will be public
 local timeEffect = 0.75
 local zoomMulti = {0.015,0.015}
 local alphaTrail = 0.8
+function onCreate()
+	if songName == "aleph-0" then
+		return close()
+	end
+end
 function onSongStart()
 	makeTrailEffect()
 end

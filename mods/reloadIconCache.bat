@@ -1,0 +1,1 @@
+python reloadIconCache.py

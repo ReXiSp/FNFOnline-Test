@@ -24,29 +24,6 @@ function onCreatePost()
 
     setTextFont("scoreTxt", "vcr.ttf")
     setTextFont("timeTxt", "vcr.ttf")
-
-    --fnf online icons fuck
-    -- makeLuaSprite("icon", "icons/icon-ahogo")
-    -- makeLuaSprite("icon", "icons/icon-aoken")
-    -- makeLuaSprite("icon", "icons/icon-lime")
-    -- makeLuaSprite("icon", "icons/icon-shinohaji")
-    -- makeLuaSprite("icon", "icons/icon-sin")
-    -- makeLuaSprite("icon", "icons/icon-burakku")
-    -- makeLuaSprite("icon", "icons/icon-cyan")
-    -- makeLuaSprite("icon", "icons/icon-devilg")
-    -- makeLuaSprite("icon", "icons/icon-gfangry")
-    -- makeLuaSprite("icon", "icons/icon-giraffe")
-    -- makeLuaSprite("icon", "icons/icon-moyashiro")
-    -- makeLuaSprite("icon", "icons/icon-girufy")
-    -- makeLuaSprite("icon", "icons/icon-radio")
-    -- makeLuaSprite("icon", "icons/icon-bf")
-    -- makeLuaSprite("icon", "icons/icon-pico")
-    -- makeLuaSprite("icon", "icons/icon-redmungus")
-    -- makeLuaSprite("icon", "icons/icon-ponyken")
-    -- makeLuaSprite("icon", "icons/icon-umago")
-    -- makeLuaSprite("icon", "icons/icon-warchief")
-    -- makeLuaSprite("icon", "icons/icon-boykisser")
-    -- makeLuaSprite("icon", "icons/icon-boykisserbf")
     
     if not getPropertyFromClass("ClientPrefs", "osuMode") then
         makeLuaSprite("iconP1", "icons/icon-face", 614, getProperty("healthBar.y") - 75)
@@ -80,16 +57,6 @@ function onCreatePost()
         setProperty("fscoreTxt.visible", not getPropertyFromClass("ClientPrefs", "hideHud"))]]
 
         setHealthBarColors(rgbToHex(getProperty("dad.healthColorArray[0]"), getProperty("dad.healthColorArray[1]"), getProperty("dad.healthColorArray[2]")), rgbToHex(getProperty("boyfriend.healthColorArray[0]"), getProperty("boyfriend.healthColorArray[1]"), getProperty("boyfriend.healthColorArray[2]")))
-    end
-end
-
-function onEvent(eventName, value1, value2)
-    if eventName == "Change Character" then
-        if string.lower(value1) == "dad" or string.lower(value1) == "opponent" then
-            changeIcon(nil, value2)
-        else
-            changeIcon(value2, nil)
-        end
     end
 end
 
@@ -152,6 +119,14 @@ function onUpdatePost(elapsed)
         playAnim("iconP2", "lose")
     else
         playAnim("iconP2", "normal")
+    end
+
+    if iconP1Char ~= getProperty("boyfriend.healthIcon") then
+        changeIcon(getProperty("boyfriend.healthIcon"), nil)
+    end
+
+    if iconP2Char ~= getProperty("dad.healthIcon") then
+        changeIcon(nil, getProperty("dad.healthIcon"))
     end
 
     local iconOffset = 26
