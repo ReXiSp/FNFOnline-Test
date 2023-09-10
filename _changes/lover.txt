@@ -5,8 +5,8 @@ mods/characters/annie.json
 mods/characters/gf.json
 mods/stages/DayBurnNormal.json
 mods/stages/DayBurnNormal.lua
-mods/images/characters/annie.png
-mods/images/characters/annie.xml
+mods/images/characters/Annie.png
+mods/images/characters/Annie.xml
 mods/scripts/0_modchartSupport.lua
 mods/scripts/cache.lua
 mods/scripts/debuglua.lua
