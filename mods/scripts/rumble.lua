@@ -36,6 +36,11 @@ end
 
 local skrrrr = true
 function onCreatePost()
+
+    if songName ~= "bopeebo-rumble" then
+        return close()
+    end
+
     addHaxeLibrary('Paths')
 	addHaxeLibrary('OverlayShader')
 	addHaxeLibrary('ColorSwap')

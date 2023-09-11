@@ -1,7 +1,6 @@
 mods/data/bopeebo-rumble/bopeebo-rumble-easy.json
 mods/data/bopeebo-rumble/bopeebo-rumble-hard.json
 mods/data/bopeebo-rumble/bopeebo-rumble.json
-mods/data/bopeebo-rumble/rumble.lua
 mods/stages/stage_clone.json
 mods/stages/stage_clone.lua
 mods/scripts/0_modchartSupport.lua
@@ -16,6 +15,7 @@ mods/scripts/icondl.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/NoteSkinChange.lua
+mods/scripts/rumble.lua
 mods/scripts/seizurewarning.lua
 mods/scripts/ShowSongName.lua
 mods/scripts/songcredit.lua

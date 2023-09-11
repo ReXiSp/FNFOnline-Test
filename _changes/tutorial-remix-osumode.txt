@@ -20,6 +20,7 @@ mods/scripts/icondl.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/NoteSkinChange.lua
+mods/scripts/rumble.lua
 mods/scripts/seizurewarning.lua
 mods/scripts/ShowSongName.lua
 mods/scripts/songcredit.lua

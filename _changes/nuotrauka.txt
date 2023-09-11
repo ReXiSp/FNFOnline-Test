@@ -20,6 +20,7 @@ mods/scripts/icondl.lua
 mods/scripts/JudgementCounter.lua
 mods/scripts/limemain.lua
 mods/scripts/NoteSkinChange.lua
+mods/scripts/rumble.lua
 mods/scripts/seizurewarning.lua
 mods/scripts/ShowSongName.lua
 mods/scripts/songcredit.lua
@@ -177,6 +178,9 @@ mods/images/noteskins/NOTE_splashes-silfa-playable.png
 mods/images/noteskins/NOTE_splashes-silfa-playable.xml
 mods/images/noteskins/note_silfa-playable.png
 mods/images/noteskins/note_silfa-playable.xml
+mods/images/vincekaichan.png
+mods/images/kawaisprite.png
+mods/images/me.png
 mods/fonts/arial.ttf
 mods/images/viewsong.png
 mods/songs/nuotrauka/Voices.ogg
