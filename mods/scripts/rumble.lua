@@ -384,7 +384,7 @@ end
 function onBeatHit()
     if bounceCam then
         doTweenY('camNotes bounce 0', 'camOther', 50, 0.23, 'QuadOut')
-        doTweenY('camGame bounce 0', 'camGame', (-getPropertyFromClass('flixel.FlxG', 'height') / 2) + 40, 0.23, 'QuadOut')
+        doTweenY('camGame bounce 0', 'camGame', (-getPropertyFromClass('flixel.FlxG', 'height') / 2) - 300, 0.23, 'QuadOut')
     end
     if (getSongPosition()-getPropertyFromClass('ClientPrefs','noteOffset'))*0.001 >= 32.5 and curBeat % 2 == 1 then
         if l then
