@@ -79,6 +79,8 @@ mods/images/icons/icon-cyan.png
 mods/images/icons/icon-DD.png
 mods/images/icons/icon-devilg.png
 mods/images/icons/icon-DriveThru.png
+mods/images/icons/icon-exbf.png
+mods/images/icons/icon-fly.png
 mods/images/icons/icon-gar.png
 mods/images/icons/icon-gardead.png
 mods/images/icons/icon-garfade.png
@@ -92,7 +94,7 @@ mods/images/icons/icon-JP.png
 mods/images/icons/icon-JP2.png
 mods/images/icons/icon-kyle.png
 mods/images/icons/icon-kyleb.png
-mods/images/icons/icon-Lanniedrowning.png
+mods/images/icons/icon-LAnniedrowning.png
 mods/images/icons/icon-lime.png
 mods/images/icons/icon-liquidannie.png
 mods/images/icons/icon-McDeebles.png

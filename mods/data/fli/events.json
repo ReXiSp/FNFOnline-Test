@@ -1,0 +1,163 @@
+{
+	"song": {
+		"events": [
+			[
+				8432.43243243243,
+				[
+					[
+						"Play Animation",
+						"change",
+						"GF"
+					]
+				]
+			],
+			[
+				9729.72972972973,
+				[
+					[
+						"Play Animation",
+						"React",
+						"BF"
+					]
+				]
+			],
+			[
+				52135.1351351352,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					]
+				]
+			],
+			[
+				73593.2432432433,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					]
+				]
+			],
+			[
+				115408.783783784,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					]
+				]
+			],
+			[
+				124783.783783784,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					]
+				]
+			],
+			[
+				134432.432432432,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"3"
+					]
+				]
+			],
+			[
+				134918.918918919,
+				[
+					[
+						"Play Animation",
+						"alert",
+						"BF"
+					]
+				]
+			],
+			[
+				139945.945945946,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"FIGHT"
+					],
+					[
+						"Change Character",
+						"1",
+						"flying"
+					]
+				]
+			],
+			[
+				140108.108108108,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"1"
+					],
+					[
+						"Change Game Over Character",
+						"EX_DEAD2",
+						"FlyDeath2"
+					]
+				]
+			],
+			[
+				150486.486486486,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				160686.486486487,
+				[
+					[
+						"Play Animation",
+						"lose",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"away",
+						"3"
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				160864.864864865,
+				[
+					[
+						"Change Game Over Character",
+						"bf-dead",
+						"normal"
+					]
+				]
+			]
+		]
+	}
+}

@@ -34,12 +34,14 @@ function addEvent(pos,func)
     events[pos] = {pos, func}
 end
 
-local skrrrr = true
-function onCreatePost()
-
+function onCreate()
     if songName ~= "bopeebo-rumble" then
         return close()
     end
+end
+
+local skrrrr = true
+function onCreatePost()
 
     addHaxeLibrary('Paths')
 	addHaxeLibrary('OverlayShader')
